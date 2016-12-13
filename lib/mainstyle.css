@@ -1,0 +1,30 @@
+.topLevelEntryHeader {
+}
+
+.topLevelEntry {
+    border: 1px solid black;
+    padding: 2px;
+    margin: 5px;
+    border-radius: 6px;
+}
+
+.secondLevelEntryHeader {
+    color:red;
+}
+
+.secondLevelEntry {
+    overflow: hidden;
+    border: 1px solid black;
+    padding: 2px;
+    margin: 5px;
+    border-radius: 4px;
+}
+
+.objblock {
+    border-radius: 3px;
+    margin: 5px;
+    padding: 2px;
+    border: 1px solid black;
+    width: 9%;
+    float: left;
+}
