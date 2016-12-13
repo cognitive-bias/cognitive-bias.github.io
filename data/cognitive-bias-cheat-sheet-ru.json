@@ -2,8 +2,8 @@
   "name": "Когнитивные искажения",
   "children": [
     {
-      "name": "1. Too Much Information",
-      "name-ru": "1. Переизбыток информации",
+      "name": "Too Much Information",
+      "name-ru": "Переизбыток информации",
       "children": [
         {
           "name": "We notice things already primed in memory or repeated often",
@@ -330,8 +330,8 @@
       ]
     },
     {
-      "name": "2. Not Enough Meaning",
-      "name-ru": "2. Сложность понимания",
+      "name": "Not Enough Meaning",
+      "name-ru": "Сложность понимания",
       "children": [
         {
           "name": "We find stories and patterns even in sparse data",
@@ -828,7 +828,7 @@
       ]
     },
     {
-      "name": "3. Need To Act Fast",
+      "name": "Need To Act Fast",
       "name-ru": "Необходимость быстрой реакции",
       "children": [
         {
@@ -1240,7 +1240,7 @@
       ]
     },
     {
-      "name": "4. What Should We Remember?",
+      "name": "What Should We Remember?",
       "name-ru": "Что нужно будет вспомнить?",
       "children": [
         {
