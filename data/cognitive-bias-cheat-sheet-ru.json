@@ -1,1494 +1,1669 @@
 {
-  "name": "Когнитивные искажения",
+  "nameEn": "Когнитивные искажения",
   "children": [
     {
-      "name": "Too Much Information",
-      "name-ru": "Переизбыток информации",
+      "nameEn": "Too Much Information",
+      "nameRu": "Переизбыток информации",
       "children": [
         {
-          "name": "We notice things already primed in memory or repeated often",
-          "name-ru": "Мы охотнее замечаем то, что ранее запоминали либо часто встречали",
+          "nameEn": "We notice things already primed in memory or repeated often",
+          "nameRu": "Мы охотнее замечаем то, что ранее запоминали либо часто встречали",
           "children": [
             {
-              "name": "Availability heuristic",
-              "wiki-en": "https://en.wikipedia.org/wiki/Availability_heuristic",
-              "name-ru": "Эвристика доступности",
-              "wiki-ru": null,
-              "desc-ru": "Склонность считать «более вероятным» то, что проще вспомнить или снабдить примером из памяти; отклонение в сторону более яркого, необычного или эмоционально заряженного"
+              "nameEn": "Availability heuristic",
+              "wikiEn": "https://en.wikipedia.org/wiki/Availability_heuristic",
+              "nameRu": "Эвристика доступности",
+              "wikiRu": null,
+              "descRu": "Склонность считать «более вероятным» то, что проще вспомнить или снабдить примером из памяти; отклонение в сторону более яркого, необычного или эмоционально заряженного",
+              "descEn": null
             },
             {
-              "name": "Attentional bias",
-              "wiki-en": "https://en.wikipedia.org/wiki/Attentional_bias",
-              "name-ru": "Систематическая ошибка внимания",
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Систематическая_ошибка_внимания",
-              "desc-ru": "Склонность восприятия к зависимости от повторяющихся мыслей: если что-то постоянно находится в фокусе внимания, то это влияет на способность к адекватной оценке"
+              "nameEn": "Attentional bias",
+              "wikiEn": "https://en.wikipedia.org/wiki/Attentional_bias",
+              "nameRu": "Систематическая ошибка внимания",
+              "wikiRu": "https://ru.wikipedia.org/wiki/Систематическая_ошибка_внимания",
+              "descRu": "Склонность восприятия к зависимости от повторяющихся мыслей: если что-то постоянно находится в фокусе внимания, то это влияет на способность к адекватной оценке",
+              "descEn": null
             },
             {
-              "name": "Illusory truth effect",
-              "wiki-en": "https://en.wikipedia.org/wiki/Illusory_truth_effect",
-              "name-ru": "Эффект мнимой правды",
-              "wiki-ru": null,
-              "desc-ru": "Склонность верить в правдивость информации, которую многократно предъявляли ранее"
+              "nameEn": "Illusory truth effect",
+              "wikiEn": "https://en.wikipedia.org/wiki/Illusory_truth_effect",
+              "nameRu": "Эффект мнимой правды",
+              "wikiRu": null,
+              "descRu": "Склонность верить в правдивость информации, которую многократно предъявляли ранее",
+              "descEn": null
             },
             {
-              "name": "Availability cascade",
-              "wiki-en": null,
-              "name-ru": "Каскад доступной информации",
-              "wiki-ru": null,
-              "desc-ru": "Самоусиливающийся процесс, в ходе которого коллективная вера во что-то становится всё более убедительной за счёт нарастающего публичного повторения"
+              "nameEn": "Availability cascade",
+              "wikiEn": null,
+              "nameRu": "Каскад доступной информации",
+              "wikiRu": null,
+              "descRu": "Самоусиливающийся процесс, в ходе которого коллективная вера во что-то становится всё более убедительной за счёт нарастающего публичного повторения",
+              "descEn": null
             },
             {
-              "name": "Mere exposure effect",
-              "wiki-en": "https://en.wikipedia.org/wiki/Mere-exposure_effect",
-              "name-ru": "Эффект знакомства с объектом",
-              "wiki-ru": null,
-              "desc-ru": "Склонность иметь чрезмерное расположение к объекту лишь из-за знакомства с ним"
+              "nameEn": "Mere exposure effect",
+              "wikiEn": "https://en.wikipedia.org/wiki/Mere-exposure_effect",
+              "nameRu": "Эффект знакомства с объектом",
+              "wikiRu": null,
+              "descRu": "Склонность иметь чрезмерное расположение к объекту лишь из-за знакомства с ним",
+              "descEn": null
             },
             {
-              "name": "Context effect",
-              "wiki-en": null,
-              "name-ru": "Эффект контекста",
-              "wiki-ru": null,
-              "desc-ru": "Восприятие и память зависят от контекста: воспоминания о событиях вне текущего контекста сложнее восстановить, чем о событиях в контексте (например, скорость и точность воспоминаний о работе снижается дома, и наоборот)"
+              "nameEn": "Context effect",
+              "wikiEn": null,
+              "nameRu": "Эффект контекста",
+              "wikiRu": null,
+              "descRu": "Восприятие и память зависят от контекста: воспоминания о событиях вне текущего контекста сложнее восстановить, чем о событиях в контексте (например, скорость и точность воспоминаний о работе снижается дома, и наоборот)",
+              "descEn": null
             },
             {
-              "name": "Cue-dependent forgetting",
-              "wiki-en": "https://en.wikipedia.org/wiki/Cue-dependent_forgetting",
-              "name-ru": "Забывание без подсказок",
-              "wiki-ru": null,
-              "desc-ru": "Трудности с вспоминанием информации в отсутствие семантических подсказок (ассоциаций), подсказок состояния (эмоционального, физического и умственного) или контекстных подсказок (зависящих от окружения или ситуации)"
+              "nameEn": "Cue-dependent forgetting",
+              "wikiEn": "https://en.wikipedia.org/wiki/Cue-dependent_forgetting",
+              "nameRu": "Забывание без подсказок",
+              "wikiRu": null,
+              "descRu": "Трудности с вспоминанием информации в отсутствие семантических подсказок (ассоциаций), подсказок состояния (эмоционального, физического и умственного) или контекстных подсказок (зависящих от окружения или ситуации)",
+              "descEn": null
             },
             {
-              "name": "Mood-congruent memory bias",
-              "wiki-en": "http://en.wikipedia.org/wiki/Context-dependent_memory#Mood-congruent_memory",
-              "name-ru": "Отклонение в сторону соответствия эмоциям",
-              "wiki-ru": null,
-              "desc-ru": "Эмоционально насыщенная информация лучше вспоминается в соответствующем ей эмоциональном состоянии (справедливо как для радостных, так и для грустных воспоминаний)"
+              "nameEn": "Mood-congruent memory bias",
+              "wikiEn": "http://en.wikipedia.org/wiki/Context-dependent_memory#Mood-congruent_memory",
+              "nameRu": "Отклонение в сторону соответствия эмоциям",
+              "wikiRu": null,
+              "descRu": "Эмоционально насыщенная информация лучше вспоминается в соответствующем ей эмоциональном состоянии (справедливо как для радостных, так и для грустных воспоминаний)",
+              "descEn": null
             },
             {
-              "name": [
+              "nameEn": [
                 "Frequency illusion",
                 "Baader—Meinhof Phenomenon"
               ],
-              "wiki-en": "http://en.wikipedia.org/wiki/Frequency_illusion",
-              "name-ru": [
+              "wikiEn": "http://en.wikipedia.org/wiki/Frequency_illusion",
+              "nameRu": [
                 "Иллюзия частотности",
                 "Феномен Баадера — Майнхоф",
                 "Закон парных случаев"
               ],
-              "wiki-ru": null,
-              "desc-ru": "Иллюзия, при которой слово, имя или объект, недавно попавшие во внимание либо впервые предъявленные, снова предъявляются через промежуток времени, кажущийся невероятно коротким (не путать с «иллюзией новизны» и «систематической ошибкой отбора»)"
+              "wikiRu": null,
+              "descRu": "Иллюзия, при которой слово, имя или объект, недавно попавшие во внимание либо впервые предъявленные, снова предъявляются через промежуток времени, кажущийся невероятно коротким (не путать с «иллюзией новизны» и «систематической ошибкой отбора»)",
+              "descEn": null
             },
             {
-              "name": "Empathy gap",
-              "wiki-en": "https://en.wikipedia.org/wiki/Empathy_gap",
-              "name-ru": "Разрыв эмпатии между горячим и холодным состоянием",
-              "wiki-ru": null,
-              "desc-ru": "Склонность недооценивать влияние или силу вегетативной нервной системы на состояние, предпочтения и поведение себя и других людей (включая голод, жажду, сексуальное возбуждение, воздействие веществ, физическую боль и сильные эмоции)"
+              "nameEn": "Empathy gap",
+              "wikiEn": "https://en.wikipedia.org/wiki/Empathy_gap",
+              "nameRu": "Разрыв эмпатии между горячим и холодным состоянием",
+              "wikiRu": null,
+              "descRu": "Склонность недооценивать влияние или силу вегетативной нервной системы на состояние, предпочтения и поведение себя и других людей (включая голод, жажду, сексуальное возбуждение, воздействие веществ, физическую боль и сильные эмоции)",
+              "descEn": null
             },
             {
-              "name": "Omission bias",
-              "wiki-en": "https://en.wikipedia.org/wiki/Omission_bias",
-              "name-ru": "Недооценка бездействия",
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Недооценка_бездействия",
-              "desc-ru": "Cклонность оценивать вредоносные действия как более плохие или аморальные, чем равноценно вредоносные бездействия"
+              "nameEn": "Omission bias",
+              "wikiEn": "https://en.wikipedia.org/wiki/Omission_bias",
+              "nameRu": "Недооценка бездействия",
+              "wikiRu": "https://ru.wikipedia.org/wiki/Недооценка_бездействия",
+              "descRu": "Cклонность оценивать вредоносные действия как более плохие или аморальные, чем равноценно вредоносные бездействия",
+              "descEn": null
             },
             {
-              "name": "Base rate fallacy",
-              "wiki-en": "https://en.wikipedia.org/wiki/Base_rate_fallacy",
-              "name-ru": "Ошибка базового процента",
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Ошибка_базового_процента",
-              "desc-ru": "Склонность игнорировать объективную частоту некоторого события (базовый процент) и фокусироваться на информации, относящейся к частному случаю"
+              "nameEn": "Base rate fallacy",
+              "wikiEn": "https://en.wikipedia.org/wiki/Base_rate_fallacy",
+              "nameRu": "Ошибка базового процента",
+              "wikiRu": "https://ru.wikipedia.org/wiki/Ошибка_базового_процента",
+              "descRu": "Склонность игнорировать объективную частоту некоторого события (базовый процент) и фокусироваться на информации, относящейся к частному случаю",
+              "descEn": null
             }
           ]
         },
         {
-          "name": "Bizarre/funny/visually-striking/anthropomorphic things stick out more than non-bizarre/unfunny things",
-          "name-ru": "Странные / смешные / внешне привлекательные / антропоморфные вещи привлекают внимание больше, чем привычные / несмешные",
+          "nameEn": "Bizarre/funny/visually-striking/anthropomorphic things stick out more than non-bizarre/unfunny things",
+          "nameRu": "Странные / смешные / внешне привлекательные / антропоморфные вещи привлекают внимание больше, чем привычные / несмешные",
           "children": [
             {
-              "name": [
+              "nameEn": [
                 "Bizarreness effect",
                 "Humor effect"
               ],
-              "wiki-en": "https://en.wikipedia.org/wiki/Bizarreness_effect",
-              "name-ru": [
+              "wikiEn": "https://en.wikipedia.org/wiki/Bizarreness_effect",
+              "nameRu": [
                 "Эффект причудливости",
                 "Эффект юмора"
               ],
-              "wiki-ru": null,
-              "desc-ru": "Странная, необычная или смешная информация запоминается лучше по сравнению с предсказуемой, типичной и  рядовой"
+              "wikiRu": null,
+              "descRu": "Странная, необычная или смешная информация запоминается лучше по сравнению с предсказуемой, типичной и  рядовой",
+              "descEn": null
             },
             {
-              "name": "Von Restorff effect",
-              "wiki-en": "https://en.wikipedia.org/wiki/Von_Restorff_effect",
-              "name-ru": [
+              "nameEn": "Von Restorff effect",
+              "wikiEn": "https://en.wikipedia.org/wiki/Von_Restorff_effect",
+              "nameRu": [
                 "Эффект Ресторфф",
                 "Эффект изоляции"
               ],
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Эффект_Ресторфф",
-              "desc-ru": "Склонность к лучшему запоминанию объекта, выделяющегося среди ряда других однородных объектов"
+              "wikiRu": "https://ru.wikipedia.org/wiki/Эффект_Ресторфф",
+              "descRu": "Склонность к лучшему запоминанию объекта, выделяющегося среди ряда других однородных объектов",
+              "descEn": null
             },
             {
-              "name": "Picture superiority effect",
-              "wiki-en": "https://en.wikipedia.org/wiki/Picture_superiority_effect",
-              "name-ru": "Эффект превосходства картинки",
-              "wiki-ru": null,
-              "desc-ru": "Объяснения в картинках легче запоминаются, чем записанные словами"
+              "nameEn": "Picture superiority effect",
+              "wikiEn": "https://en.wikipedia.org/wiki/Picture_superiority_effect",
+              "nameRu": "Эффект превосходства картинки",
+              "wikiRu": null,
+              "descRu": "Объяснения в картинках легче запоминаются, чем записанные словами",
+              "descEn": null
             },
             {
-              "name": "Self-reference effect",
-              "wiki-en": "https://en.wikipedia.org/wiki/Self-reference_effect",
-              "name-ru": "Эффект самореференции",
-              "wiki-ru": null,
-              "desc-ru": "Склонность по-разному сохранять в памяти информацию в зависимости от того, насколько она затрагивает человека лично (связанная с собой информация легче вспоминается)"
+              "nameEn": "Self-reference effect",
+              "wikiEn": "https://en.wikipedia.org/wiki/Self-reference_effect",
+              "nameRu": "Эффект самореференции",
+              "wikiRu": null,
+              "descRu": "Склонность по-разному сохранять в памяти информацию в зависимости от того, насколько она затрагивает человека лично (связанная с собой информация легче вспоминается)",
+              "descEn": null
             },
             {
-              "name": "Pollyanna hypothesis",
-              "wiki-en": "https://en.wikipedia.org/wiki/Pollyanna_principle",
-              "name-ru": "Гипотеза Поллианны",
-              "wiki-ru": null,
-              "desc-ru": "Предположение о том, что люди используют для коммуникации слова с позитивной семантикой более часто и разнообразно, чем слова с негативной семантикой"
+              "nameEn": "Pollyanna hypothesis",
+              "wikiEn": "https://en.wikipedia.org/wiki/Pollyanna_principle",
+              "nameRu": "Гипотеза Поллианны",
+              "wikiRu": null,
+              "descRu": "Предположение о том, что люди используют для коммуникации слова с позитивной семантикой более часто и разнообразно, чем слова с негативной семантикой",
+              "descEn": null
             },
             {
-              "name": "Positivity offset",
-              "wiki-en": "https://en.wikipedia.org/wiki/Positivity_offset",
-              "name-ru": "Сдвиг к позитивной оценке",
-              "wiki-ru": null,
-              "desc-ru": "Склонность слегка позитивно оценивать нейтральные ситуации (в условиях недостатка эмоциональных или ценностных характеристик в ситуации, достаточных для быстрой оценки)"
+              "nameEn": "Positivity offset",
+              "wikiEn": "https://en.wikipedia.org/wiki/Positivity_offset",
+              "nameRu": "Сдвиг к позитивной оценке",
+              "wikiRu": null,
+              "descRu": "Склонность слегка позитивно оценивать нейтральные ситуации (в условиях недостатка эмоциональных или ценностных характеристик в ситуации, достаточных для быстрой оценки)",
+              "descEn": null
             }
           ]
         },
         {
-          "name": "We notice when something has changed",
-          "name-ru": "Мы замечаем, когда что-то меняется",
+          "nameEn": "We notice when something has changed",
+          "nameRu": "Мы замечаем, когда что-то меняется",
           "children": [
             {
-              "name": "Anchoring",
-              "wiki-en": "https://en.wikipedia.org/wiki/Anchoring",
-              "name-ru": "Эффект привязки",
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Эффект_привязки",
-              "desc-ru": "Склонность слишком сильно полагаться только на первую часть предъявленной информации («якорь») в принятии решения; в том числе тяготение оценки неизвестного числа к ранее предъявленным числам"
+              "nameEn": "Anchoring",
+              "wikiEn": "https://en.wikipedia.org/wiki/Anchoring",
+              "nameRu": "Эффект привязки",
+              "wikiRu": "https://ru.wikipedia.org/wiki/Эффект_привязки",
+              "descRu": "Склонность слишком сильно полагаться только на первую часть предъявленной информации («якорь») в принятии решения; в том числе тяготение оценки неизвестного числа к ранее предъявленным числам",
+              "descEn": null
             },
             {
-              "name": "Conservatism",
-              "wiki-en": "https://en.wikipedia.org/wiki/Conservatism_%28belief_revision%29",
-              "name-ru": "Консерватизм в переоценке убеждений",
-              "wiki-ru": null,
-              "desc-ru": "Склонность в недостаточной степени пересматривать свои убеждения при возникновении новых обстоятельств"
+              "nameEn": "Conservatism",
+              "wikiEn": "https://en.wikipedia.org/wiki/Conservatism_%28belief_revision%29",
+              "nameRu": "Консерватизм в переоценке убеждений",
+              "wikiRu": null,
+              "descRu": "Склонность в недостаточной степени пересматривать свои убеждения при возникновении новых обстоятельств",
+              "descEn": null
             },
             {
-              "name": "Contrast effect",
-              "wiki-en": "https://en.wikipedia.org/wiki/Contrast_effect",
-              "name-ru": "Эффект контраста",
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Эффект_контраста",
-              "desc-ru": "Увеличение или уменьшение воспринимаемого значения из-за сравнения с ранее воспринятым контрастирующим значением (на картине серый кажется рыжеватым или голубоватым из-за соседних красок; цена — более высокой или низкой из-за цены в соседнем магазине)"
+              "nameEn": "Contrast effect",
+              "wikiEn": "https://en.wikipedia.org/wiki/Contrast_effect",
+              "nameRu": "Эффект контраста",
+              "wikiRu": "https://ru.wikipedia.org/wiki/Эффект_контраста",
+              "descRu": "Увеличение или уменьшение воспринимаемого значения из-за сравнения с ранее воспринятым контрастирующим значением (на картине серый кажется рыжеватым или голубоватым из-за соседних красок; цена — более высокой или низкой из-за цены в соседнем магазине)",
+              "descEn": null
             },
             {
-              "name": "Distinction bias",
-              "wiki-en": "https://en.wikipedia.org/wiki/Distinction_bias",
-              "name-ru": "Систематическая ошибка различения",
-              "wiki-ru": null,
-              "desc-ru": "Склонность воспринимать два варианта как более различные при одновременной оценке, сравнительно с оценкой каждого из них по отдельности"
+              "nameEn": "Distinction bias",
+              "wikiEn": "https://en.wikipedia.org/wiki/Distinction_bias",
+              "nameRu": "Систематическая ошибка различения",
+              "wikiRu": null,
+              "descRu": "Склонность воспринимать два варианта как более различные при одновременной оценке, сравнительно с оценкой каждого из них по отдельности",
+              "descEn": null
             },
             {
-              "name": "Focusing effect",
-              "wiki-en": "https://en.wikipedia.org/wiki/Anchoring#Focusing_effect",
-              "name-ru": "Эффект фокусировки",
-              "wiki-ru": null,
-              "desc-ru": "Ошибка в оценке и предсказаниях, возникающая, когда люди уделяют слишком много внимания какому-то одному аспекту явления (например, убеждение, что люди с высоким доходом субъективно более счастливы)"
+              "nameEn": "Focusing effect",
+              "wikiEn": "https://en.wikipedia.org/wiki/Anchoring#Focusing_effect",
+              "nameRu": "Эффект фокусировки",
+              "wikiRu": null,
+              "descRu": "Ошибка в оценке и предсказаниях, возникающая, когда люди уделяют слишком много внимания какому-то одному аспекту явления (например, убеждение, что люди с высоким доходом субъективно более счастливы)",
+              "descEn": null
             },
             {
-              "name": "Framing effect",
-              "wiki-en": "https://en.wikipedia.org/wiki/Framing_effect_(psychology)",
-              "name-ru": "Эффект фрейминга",
-              "wiki-ru": null,
-              "desc-ru": "Феномен разной реакции на одинаковый выбор в зависимости от того, как он преподносится: например, как положительный или отрицательный выбор"
+              "nameEn": "Framing effect",
+              "wikiEn": "https://en.wikipedia.org/wiki/Framing_effect_(psychology)",
+              "nameRu": "Эффект фрейминга",
+              "wikiRu": null,
+              "descRu": "Феномен разной реакции на одинаковый выбор в зависимости от того, как он преподносится: например, как положительный или отрицательный выбор",
+              "descEn": null
             },
             {
-              "name": "Money illusion",
-              "wiki-en": "http://en.wikipedia.org/wiki/Money_illusion",
-              "name-ru": "Денежная иллюзия",
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Денежная_иллюзия",
-              "desc-ru": "Склонность воспринимать номинальную стоимость денег, а не их реальную стоимость, выражающуюся в покупательной способности"
+              "nameEn": "Money illusion",
+              "wikiEn": "http://en.wikipedia.org/wiki/Money_illusion",
+              "nameRu": "Денежная иллюзия",
+              "wikiRu": "https://ru.wikipedia.org/wiki/Денежная_иллюзия",
+              "descRu": "Склонность воспринимать номинальную стоимость денег, а не их реальную стоимость, выражающуюся в покупательной способности",
+              "descEn": null
             },
             {
-              "name": "Weber–Fechner law",
-              "wiki-en": "https://en.wikipedia.org/wiki/Weber–Fechner_law",
-              "name-ru": "Закон Вебера — Фехнера",
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Закон_Вебера_—_Фехнера",
-              "desc-ru": "Интенсивность ощущений логарифмически зависит от интенсивности раздражителя; человеку сложно оценивать относительно малые различия между относительно большими величинами"
+              "nameEn": "Weber–Fechner law",
+              "wikiEn": "https://en.wikipedia.org/wiki/Weber–Fechner_law",
+              "nameRu": "Закон Вебера — Фехнера",
+              "wikiRu": "https://ru.wikipedia.org/wiki/Закон_Вебера_—_Фехнера",
+              "descRu": "Интенсивность ощущений логарифмически зависит от интенсивности раздражителя; человеку сложно оценивать относительно малые различия между относительно большими величинами",
+              "descEn": null
             }
           ]
         },
         {
-          "name": "We are drawn to details that confirm our own existing beliefs",
-          "name-ru": "Нас привлекают частности, подтверждающие наши существующие убеждения",
+          "nameEn": "We are drawn to details that confirm our own existing beliefs",
+          "nameRu": "Нас привлекают частности, подтверждающие наши существующие убеждения",
           "children": [
             {
-              "name": "Confirmation bias",
-              "wiki-en": "https://en.wikipedia.org/wiki/Confirmation_bias",
-              "name-ru": [
+              "nameEn": "Confirmation bias",
+              "wikiEn": "https://en.wikipedia.org/wiki/Confirmation_bias",
+              "nameRu": [
                 "Склонность к подтверждению своей точки зрения",
                 "Предвзятость подтверждения"
               ],
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Склонность_к_подтверждению_своей_точки_зрения",
-              "desc-ru": "Склонность искать, интерпретировать или отдавать предпочтение информации, которая согласуется со своими точкой зрения, убеждением или гипотезой"
+              "wikiRu": "https://ru.wikipedia.org/wiki/Склонность_к_подтверждению_своей_точки_зрения",
+              "descRu": "Склонность искать, интерпретировать или отдавать предпочтение информации, которая согласуется со своими точкой зрения, убеждением или гипотезой",
+              "descEn": null
             },
             {
-              "name": "Congruence bias",
-              "wiki-en": "http://en.wikipedia.org/wiki/Congruence_bias",
-              "name-ru": "Систематическая ошибка согласованности",
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Систематическая_ошибка_согласованности",
-              "desc-ru": "Склонность проверять гипотезу только прямым её тестированием, пренебрегая косвенным тестированием и проверкой альтернативных гипотез"
+              "nameEn": "Congruence bias",
+              "wikiEn": "http://en.wikipedia.org/wiki/Congruence_bias",
+              "nameRu": "Систематическая ошибка согласованности",
+              "wikiRu": "https://ru.wikipedia.org/wiki/Систематическая_ошибка_согласованности",
+              "descRu": "Склонность проверять гипотезу только прямым её тестированием, пренебрегая косвенным тестированием и проверкой альтернативных гипотез",
+              "descEn": null
             },
             {
-              "name": "Post-purchase rationalization",
-              "wiki-en": "http://en.wikipedia.org/wiki/Post-purchase_rationalization",
-              "name-ru": "Рационализация после покупки",
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Рационализация_после_покупки",
-              "desc-ru": "Склонность убеждать себя рациональными аргументами, что покупка стоила своих денег"
+              "nameEn": "Post-purchase rationalization",
+              "wikiEn": "http://en.wikipedia.org/wiki/Post-purchase_rationalization",
+              "nameRu": "Рационализация после покупки",
+              "wikiRu": "https://ru.wikipedia.org/wiki/Рационализация_после_покупки",
+              "descRu": "Склонность убеждать себя рациональными аргументами, что покупка стоила своих денег",
+              "descEn": null
             },
             {
-              "name": "Choice-supportive bias",
-              "wiki-en": "https://en.wikipedia.org/wiki/Choice-supportive_bias",
-              "name-ru": "Искажение в восприятии сделанного выбора",
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Искажение_в_восприятии_сделанного_выбора",
-              "desc-ru": "Склонность ретроспективно приписывать положительные характеристики ранее сделанному выбору"
+              "nameEn": "Choice-supportive bias",
+              "wikiEn": "https://en.wikipedia.org/wiki/Choice-supportive_bias",
+              "nameRu": "Искажение в восприятии сделанного выбора",
+              "wikiRu": "https://ru.wikipedia.org/wiki/Искажение_в_восприятии_сделанного_выбора",
+              "descRu": "Склонность ретроспективно приписывать положительные характеристики ранее сделанному выбору",
+              "descEn": null
             },
             {
-              "name": "Selective perception",
-              "wiki-en": "https://en.wikipedia.org/wiki/Selective_perception",
-              "name-ru": "Селективное восприятие",
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Селективное_восприятие",
-              "desc-ru": "Склонность игнорировать и быстрее забывать стимулы, эмоционально неприятные и противоречащие прошлым убеждениям, а также уделять внимание стимулам, которые согласуются с ожиданиями"
+              "nameEn": "Selective perception",
+              "wikiEn": "https://en.wikipedia.org/wiki/Selective_perception",
+              "nameRu": "Селективное восприятие",
+              "wikiRu": "https://ru.wikipedia.org/wiki/Селективное_восприятие",
+              "descRu": "Склонность игнорировать и быстрее забывать стимулы, эмоционально неприятные и противоречащие прошлым убеждениям, а также уделять внимание стимулам, которые согласуются с ожиданиями",
+              "descEn": null
             },
             {
-              "name": "Observer-expectancy effect",
-              "wiki-en": "https://en.wikipedia.org/wiki/Observer-expectancy_effect",
-              "name-ru": "Эффект ожидания наблюдателя",
-              "wiki-ru": null,
-              "desc-ru": "Склонность исследователя ожидать определённого результата, предпочитать подтверждающие данные опровергающим, бессознательно манипулировать ходом эксперимента (или неправильно интерпретировать его итоги), чтобы обнаружить ожидаемый результат"
+              "nameEn": "Observer-expectancy effect",
+              "wikiEn": "https://en.wikipedia.org/wiki/Observer-expectancy_effect",
+              "nameRu": "Эффект ожидания наблюдателя",
+              "wikiRu": null,
+              "descRu": "Склонность исследователя ожидать определённого результата, предпочитать подтверждающие данные опровергающим, бессознательно манипулировать ходом эксперимента (или неправильно интерпретировать его итоги), чтобы обнаружить ожидаемый результат",
+              "descEn": null
             },
             {
-              "name": "Ostrich effect",
-              "wiki-en": "https://en.wikipedia.org/wiki/Ostrich_effect",
-              "name-ru": "Эффект страуса",
-              "wiki-ru": null,
-              "desc-ru": "Игнорирование очевидно существующей негативной ситуации, отказ сталкиваться с информацией, способной вызвать психологический дискомфорт"
+              "nameEn": "Ostrich effect",
+              "wikiEn": "https://en.wikipedia.org/wiki/Ostrich_effect",
+              "nameRu": "Эффект страуса",
+              "wikiRu": null,
+              "descRu": "Игнорирование очевидно существующей негативной ситуации, отказ сталкиваться с информацией, способной вызвать психологический дискомфорт",
+              "descEn": null
             },
             {
-              "name": "Subjective validation",
-              "wiki-en": "ttp://en.wikipedia.org/wiki/Subjective_validation",
-              "name-ru": "Субъективное придание значимости",
-              "wiki-ru": null,
-              "desc-ru": "Склонность считать информацию правдивой/существенной, если она имеет какую-либо субъективную ценность"
+              "nameEn": "Subjective validation",
+              "wikiEn": "ttp://en.wikipedia.org/wiki/Subjective_validation",
+              "nameRu": "Субъективное придание значимости",
+              "wikiRu": null,
+              "descRu": "Склонность считать информацию правдивой/существенной, если она имеет какую-либо субъективную ценность",
+              "descEn": null
             },
             {
-              "name": "Continued influence effect",
-              "wiki-en": "https://en.wikipedia.org/wiki/Confirmation_bias#continued_influence_effect",
-              "name-ru": "Эффект продолжающегося влияния",
-              "wiki-ru": null,
-              "desc-ru": "Склонность продолжать доверять ранее запомненной ошибочной информации даже в том случае, если её ошибочность была доказана и осознана"
+              "nameEn": "Continued influence effect",
+              "wikiEn": "https://en.wikipedia.org/wiki/Confirmation_bias#continued_influence_effect",
+              "nameRu": "Эффект продолжающегося влияния",
+              "wikiRu": null,
+              "descRu": "Склонность продолжать доверять ранее запомненной ошибочной информации даже в том случае, если её ошибочность была доказана и осознана",
+              "descEn": null
             },
             {
-              "name": "Semmelweis reflex",
-              "wiki-en": "https://en.wikipedia.org/wiki/Semmelweis_reflex",
-              "name-ru": "Рефлекс Земмельвайса",
-              "wiki-ru": null,
-              "desc-ru": "Отбрасывание новой информации, если она противоречит существующим социальным нормам, привычкам, устоявшимся представлениям или парадигмам"
+              "nameEn": "Semmelweis reflex",
+              "wikiEn": "https://en.wikipedia.org/wiki/Semmelweis_reflex",
+              "nameRu": "Рефлекс Земмельвайса",
+              "wikiRu": null,
+              "descRu": "Отбрасывание новой информации, если она противоречит существующим социальным нормам, привычкам, устоявшимся представлениям или парадигмам",
+              "descEn": null
             }
           ]
         },
         {
-          "name": "We notice flaws in others more easily than flaws in ourselves",
-          "name-ru": "Мы гораздо легче замечаем изъяны в других, чем в себе",
+          "nameEn": "We notice flaws in others more easily than flaws in ourselves",
+          "nameRu": "Мы гораздо легче замечаем изъяны в других, чем в себе",
           "children": [
             {
-              "name": "Bias blind spot",
-              "wiki-en": "http://en.wikipedia.org/wiki/Bias_blind_spot",
-              "name-ru": "Слепота в отношении когнитивных искажений",
-              "wiki-ru": null,
-              "desc-ru": "Склонность распознавать воздействие когнитивных искажений на суждения и действия других, сопровождаемая неспособностью распознавать собственные когнитивные искажения"
+              "nameEn": "Bias blind spot",
+              "wikiEn": "http://en.wikipedia.org/wiki/Bias_blind_spot",
+              "nameRu": "Слепота в отношении когнитивных искажений",
+              "wikiRu": null,
+              "descRu": "Склонность распознавать воздействие когнитивных искажений на суждения и действия других, сопровождаемая неспособностью распознавать собственные когнитивные искажения",
+              "descEn": null
             },
             {
-              "name": "Naïve cynicism",
-              "wiki-en": "https://en.wikipedia.org/wiki/Naïve_cynicism",
-              "name-ru": "Наивный цинизм",
-              "wiki-ru": null,
-              "desc-ru": "Склонность к ожиданию у других людей гораздо большего количества эгоцентричных когнитивных искажений, чем есть на самом деле"
+              "nameEn": "Naïve cynicism",
+              "wikiEn": "https://en.wikipedia.org/wiki/Naïve_cynicism",
+              "nameRu": "Наивный цинизм",
+              "wikiRu": null,
+              "descRu": "Склонность к ожиданию у других людей гораздо большего количества эгоцентричных когнитивных искажений, чем есть на самом деле",
+              "descEn": null
             },
             {
-              "name": "Naïve realism",
-              "wiki-en": "https://en.wikipedia.org/wiki/Na%C3%AFve_realism_%28psychology%29",
-              "name-ru": "Наивный реализм",
-              "wiki-ru": null,
-              "desc-ru": "Склонность верить в объективность собственной картины мира, приписывая несогласным с ней людям недостаток информированности, иррациональность или когнитивные искажения"
+              "nameEn": "Naïve realism",
+              "wikiEn": "https://en.wikipedia.org/wiki/Na%C3%AFve_realism_%28psychology%29",
+              "nameRu": "Наивный реализм",
+              "wikiRu": null,
+              "descRu": "Склонность верить в объективность собственной картины мира, приписывая несогласным с ней людям недостаток информированности, иррациональность или когнитивные искажения",
+              "descEn": null
             }
           ]
         }
       ]
     },
     {
-      "name": "Not Enough Meaning",
-      "name-ru": "Сложность понимания",
+      "nameEn": "Not Enough Meaning",
+      "nameRu": "Сложность понимания",
       "children": [
         {
-          "name": "We find stories and patterns even in sparse data",
-          "name-ru": "Мы обнаруживаем истории и закономерности даже в скудных данных",
+          "nameEn": "We find stories and patterns even in sparse data",
+          "nameRu": "Мы обнаруживаем истории и закономерности даже в скудных данных",
           "children": [
             {
-              "name": "False memory",
-              "wiki-en": "https://en.wikipedia.org/wiki/False_memory",
-              "name-ru": [
+              "nameEn": "False memory",
+              "wikiEn": "https://en.wikipedia.org/wiki/False_memory",
+              "nameRu": [
                 "Парамнезия",
                 "Ложная память"
               ],
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Парамнезия",
-              "desc-ru": "Нарушения и расстройства памяти, выражающиеся в ложных воспоминаниях; может происходить смешение прошлого и настоящего, а также реальных и вымышленных событий (см. подробнее вики-статьи «Псевдореминисценция», «Конфабуляция», «Криптомнезия», «Фантазм»"
+              "wikiRu": "https://ru.wikipedia.org/wiki/Парамнезия",
+              "descRu": "Нарушения и расстройства памяти, выражающиеся в ложных воспоминаниях; может происходить смешение прошлого и настоящего, а также реальных и вымышленных событий (см. подробнее вики-статьи «Псевдореминисценция», «Конфабуляция», «Криптомнезия», «Фантазм»",
+              "descEn": null
             },
             {
-              "name": "Clustering illusion",
-              "wiki-en": "http://en.wikipedia.org/wiki/Clustering_illusion",
-              "name-ru": "Иллюзия кластеризации",
-              "wiki-ru": null,
-              "desc-ru": "Склонность ошибочно распознавать неизбежные регулярные «полосы» или «кластеры» в небольшом количестве данных, взятых из случайной выборки"
+              "nameEn": "Clustering illusion",
+              "wikiEn": "http://en.wikipedia.org/wiki/Clustering_illusion",
+              "nameRu": "Иллюзия кластеризации",
+              "wikiRu": null,
+              "descRu": "Склонность ошибочно распознавать неизбежные регулярные «полосы» или «кластеры» в небольшом количестве данных, взятых из случайной выборки",
+              "descEn": null
             },
             {
-              "name": "Insensitivity to sample size",
-              "wiki-en": "http://en.wikipedia.org/wiki/Insensitivity_to_sample_size",
-              "name-ru": "Ошибка из-за размера выборки",
-              "wiki-ru": null,
-              "desc-ru": "Склонность не учитывать, что вариативность при малых размерах выборки — значительнее, чем при больших"
+              "nameEn": "Insensitivity to sample size",
+              "wikiEn": "http://en.wikipedia.org/wiki/Insensitivity_to_sample_size",
+              "nameRu": "Ошибка из-за размера выборки",
+              "wikiRu": null,
+              "descRu": "Склонность не учитывать, что вариативность при малых размерах выборки — значительнее, чем при больших",
+              "descEn": null
             },
             {
-              "name": "Neglect of probability",
-              "wiki-en": "http://en.wikipedia.org/wiki/Neglect_of_probability",
-              "name-ru": "Отрицание вероятности",
-              "wiki-ru": null,
-              "desc-ru": "Склонность полностью отрицать вероятностную оценку событий при принятии решений в условиях неопределённости (малые риски либо полностью отрицаются, либо глобально преувеличиваются)"
+              "nameEn": "Neglect of probability",
+              "wikiEn": "http://en.wikipedia.org/wiki/Neglect_of_probability",
+              "nameRu": "Отрицание вероятности",
+              "wikiRu": null,
+              "descRu": "Склонность полностью отрицать вероятностную оценку событий при принятии решений в условиях неопределённости (малые риски либо полностью отрицаются, либо глобально преувеличиваются)",
+              "descEn": null
             },
             {
-              "name": "Anecdotal fallacy",
-              "wiki-en": "https://yourlogicalfallacyis.com/anecdotal",
-              "name-ru": "Обманчивость эпизода",
-              "wiki-ru": null,
-              "desc-ru": "Апелляция к личному опыту или отдельному примеру для обоснования какого-либо обобщающего суждения"
+              "nameEn": "Anecdotal fallacy",
+              "wikiEn": "https://yourlogicalfallacyis.com/anecdotal",
+              "nameRu": "Обманчивость эпизода",
+              "wikiRu": null,
+              "descRu": "Апелляция к личному опыту или отдельному примеру для обоснования какого-либо обобщающего суждения",
+              "descEn": null
             },
             {
-              "name": "Illusion of validity",
-              "wiki-en": "http://en.wikipedia.org/wiki/Illusion_of_validity",
-              "name-ru": "Иллюзия обоснованности",
-              "wiki-ru": null,
-              "desc-ru": "Склонность преувеличивать свои способности к интерпретации данных и предсказанию результатов, особенно когда все попытки анализа формируют связные непротиворечивые выводы или историю"
+              "nameEn": "Illusion of validity",
+              "wikiEn": "http://en.wikipedia.org/wiki/Illusion_of_validity",
+              "nameRu": "Иллюзия обоснованности",
+              "wikiRu": null,
+              "descRu": "Склонность преувеличивать свои способности к интерпретации данных и предсказанию результатов, особенно когда все попытки анализа формируют связные непротиворечивые выводы или историю",
+              "descEn": null
             },
             {
-              "name": "Masked man fallacy",
-              "wiki-en": "https://en.wikipedia.org/wiki/Masked-man_fallacy",
-              "name-ru": "Ошибка про человека в маске",
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Ошибка_про_человека_в_маске",
-              "desc-ru": "Ошибка в формальной логике, при которой замена обозначения на идентичное в верном утверждении может привести к неверному выводу"
+              "nameEn": "Masked man fallacy",
+              "wikiEn": "https://en.wikipedia.org/wiki/Masked-man_fallacy",
+              "nameRu": "Ошибка про человека в маске",
+              "wikiRu": "https://ru.wikipedia.org/wiki/Ошибка_про_человека_в_маске",
+              "descRu": "Ошибка в формальной логике, при которой замена обозначения на идентичное в верном утверждении может привести к неверному выводу",
+              "descEn": null
             },
             {
-              "name": "Recency illusion",
-              "wiki-en": "http://en.wikipedia.org/wiki/Recency_illusion",
-              "name-ru": "Иллюзия новизны",
-              "wiki-ru": null,
-              "desc-ru": "Вера в то, что вещи и явления, которые вы недавно заметили, на самом деле являются новыми, недавно появившимися (изначально о словах или правилах языка)"
+              "nameEn": "Recency illusion",
+              "wikiEn": "http://en.wikipedia.org/wiki/Recency_illusion",
+              "nameRu": "Иллюзия новизны",
+              "wikiRu": null,
+              "descRu": "Вера в то, что вещи и явления, которые вы недавно заметили, на самом деле являются новыми, недавно появившимися (изначально о словах или правилах языка)",
+              "descEn": null
             },
             {
-              "name": "Gambler's fallacy",
-              "wiki-en": "http://en.wikipedia.org/wiki/Gambler%27s_fallacy",
-              "name-ru": "Ошибка игрока",
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Ошибка_игрока",
-              "desc-ru": "Склонность думать, что прошлые события повлияют на будущие вероятности («чем больше раз подряд выбрасываешь решку, тем выше вероятность «орла»)"
+              "nameEn": "Gambler's fallacy",
+              "wikiEn": "http://en.wikipedia.org/wiki/Gambler%27s_fallacy",
+              "nameRu": "Ошибка игрока",
+              "wikiRu": "https://ru.wikipedia.org/wiki/Ошибка_игрока",
+              "descRu": "Склонность думать, что прошлые события повлияют на будущие вероятности («чем больше раз подряд выбрасываешь решку, тем выше вероятность «орла»)",
+              "descEn": null
             },
             {
-              "name": "Hot-hand fallacy",
-              "wiki-en": "https://en.wikipedia.org/wiki/Hot-hand_fallacy",
-              "name-ru": "Ошибка «счастливой руки»",
-              "wiki-ru": null,
-              "desc-ru": "Склонность считать, что человек, которому повезло в случайном испытании, и в следующих попытках будет более везучим"
+              "nameEn": "Hot-hand fallacy",
+              "wikiEn": "https://en.wikipedia.org/wiki/Hot-hand_fallacy",
+              "nameRu": "Ошибка «счастливой руки»",
+              "wikiRu": null,
+              "descRu": "Склонность считать, что человек, которому повезло в случайном испытании, и в следующих попытках будет более везучим",
+              "descEn": null
             },
             {
-              "name": "Illusory correlation",
-              "wiki-en": "http://en.wikipedia.org/wiki/Illusory_correlation",
-              "name-ru": "Мнимая взаимосвязь (иллюзия корреляции)",
-              "wiki-ru": null,
-              "desc-ru": "Склонность находить взаимосвязь между случайными событиями, людьми или обстоятельствами, когда на самом деле её не существует"
+              "nameEn": "Illusory correlation",
+              "wikiEn": "http://en.wikipedia.org/wiki/Illusory_correlation",
+              "nameRu": "Мнимая взаимосвязь (иллюзия корреляции)",
+              "wikiRu": null,
+              "descRu": "Склонность находить взаимосвязь между случайными событиями, людьми или обстоятельствами, когда на самом деле её не существует",
+              "descEn": null
             },
             {
-              "name": "Pareidolia",
-              "wiki-en": "http://en.wikipedia.org/wiki/Pareidolia",
-              "name-ru": "Парейдолия",
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Парейдолия",
-              "desc-ru": "Разновидность зрительной иллюзии: формирование иллюзорных образов (часто лиц или фигур людей и животных), в качестве основы которых выступают детали реального объекта (облака, неодушевлённые объекты, детали ландшафта)"
+              "nameEn": "Pareidolia",
+              "wikiEn": "http://en.wikipedia.org/wiki/Pareidolia",
+              "nameRu": "Парейдолия",
+              "wikiRu": "https://ru.wikipedia.org/wiki/Парейдолия",
+              "descRu": "Разновидность зрительной иллюзии: формирование иллюзорных образов (часто лиц или фигур людей и животных), в качестве основы которых выступают детали реального объекта (облака, неодушевлённые объекты, детали ландшафта)",
+              "descEn": null
             },
             {
-              "name": "Anthropomorphism",
-              "wiki-en": "https://en.wikipedia.org/wiki/Anthropomorphism#Psychology_of_anthropomorphism",
-              "name-ru": "Антропоморфизм",
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Антропоморфизм",
-              "desc-ru": "Склонность переносить человеческий образ, его характеристики и свойства на неодушевлённые предметы, живых существ, явления и силы природы, сверхъестественных существ, абстрактные понятия и так далее"
+              "nameEn": "Anthropomorphism",
+              "wikiEn": "https://en.wikipedia.org/wiki/Anthropomorphism#Psychology_of_anthropomorphism",
+              "nameRu": "Антропоморфизм",
+              "wikiRu": "https://ru.wikipedia.org/wiki/Антропоморфизм",
+              "descRu": "Склонность переносить человеческий образ, его характеристики и свойства на неодушевлённые предметы, живых существ, явления и силы природы, сверхъестественных существ, абстрактные понятия и так далее",
+              "descEn": null
             }
           ]
         },
         {
-          "name": "We fill in characteristics from stereotypes, generalities, and prior histories",
-          "name-ru": "Мы дополняем пробелы в информации или новые наблюдения известными признаками из стереотипов, обобщений и прошлого опыта",
+          "nameEn": "We fill in characteristics from stereotypes, generalities, and prior histories",
+          "nameRu": "Мы дополняем пробелы в информации или новые наблюдения известными признаками из стереотипов, обобщений и прошлого опыта",
           "children": [
             {
-              "name": "Group attribution error",
-              "wiki-en": "http://en.wikipedia.org/wiki/Group_attribution_error",
-              "name-ru": "Ошибка групповой атрибуции",
-              "wiki-ru": null,
-              "desc-ru": "Вера в то, что свойства участника коллектива совпадают с общими коллективными свойствами; вера в то, что решение группы отражает предпочтения всех участников группы (даже если есть свидетельства обратного)"
+              "nameEn": "Group attribution error",
+              "wikiEn": "http://en.wikipedia.org/wiki/Group_attribution_error",
+              "nameRu": "Ошибка групповой атрибуции",
+              "wikiRu": null,
+              "descRu": "Вера в то, что свойства участника коллектива совпадают с общими коллективными свойствами; вера в то, что решение группы отражает предпочтения всех участников группы (даже если есть свидетельства обратного)",
+              "descEn": null
             },
             {
-              "name": "Ultimate attribution error",
-              "wiki-en": "https://en.wikipedia.org/wiki/Ultimate_attribution_error",
-              "name-ru": "Предельная ошибка атрибуции",
-              "wiki-ru": null,
-              "desc-ru": "Склонность объяснять внутренними причинами негативное поведение внешних социальных групп и позитивное поведение своей подгруппы, а также внешними причинами — позитивное поведение внешних групп и негативное поведение своей подгруппы"
+              "nameEn": "Ultimate attribution error",
+              "wikiEn": "https://en.wikipedia.org/wiki/Ultimate_attribution_error",
+              "nameRu": "Предельная ошибка атрибуции",
+              "wikiRu": null,
+              "descRu": "Склонность объяснять внутренними причинами негативное поведение внешних социальных групп и позитивное поведение своей подгруппы, а также внешними причинами — позитивное поведение внешних групп и негативное поведение своей подгруппы",
+              "descEn": null
             },
             {
-              "name": "Stereotyping",
-              "wiki-en": "http://en.wikipedia.org/wiki/Stereotyping",
-              "name-ru": "Стереотипизация",
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Стереотип#.D0.94.D0.B8.D0.BD.D0.B0.D0.BC.D0.B8.D0.BA.D0.B0_.D1.81.D1.82.D0.B5.D1.80.D0.B5.D0.BE.D1.82.D0.B8.D0.BF.D0.BE.D0.B2",
-              "desc-ru": "Ожидание определённых свойств от человека из-за его принадлежности к какой-либо группе, при том, что о самом человеке значимых данных нет"
+              "nameEn": "Stereotyping",
+              "wikiEn": "http://en.wikipedia.org/wiki/Stereotyping",
+              "nameRu": "Стереотипизация",
+              "wikiRu": "https://ru.wikipedia.org/wiki/Стереотип#.D0.94.D0.B8.D0.BD.D0.B0.D0.BC.D0.B8.D0.BA.D0.B0_.D1.81.D1.82.D0.B5.D1.80.D0.B5.D0.BE.D1.82.D0.B8.D0.BF.D0.BE.D0.B2",
+              "descRu": "Ожидание определённых свойств от человека из-за его принадлежности к какой-либо группе, при том, что о самом человеке значимых данных нет",
+              "descEn": null
             },
             {
-              "name": "Essentialism",
-              "wiki-en": "https://en.wikipedia.org/wiki/Essentialism",
-              "name-ru": "Психологический эссенциализм",
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Эссенциализм",
-              "desc-ru": "Склонность предписывать классам объектов или людей неизменяемые «сущностные» характеристики, чтобы предсказывать сходство между представителями этого класса или их поведение"
+              "nameEn": "Essentialism",
+              "wikiEn": "https://en.wikipedia.org/wiki/Essentialism",
+              "nameRu": "Психологический эссенциализм",
+              "wikiRu": "https://ru.wikipedia.org/wiki/Эссенциализм",
+              "descRu": "Склонность предписывать классам объектов или людей неизменяемые «сущностные» характеристики, чтобы предсказывать сходство между представителями этого класса или их поведение",
+              "descEn": null
             },
             {
-              "name": "Functional fixedness",
-              "wiki-en": "https://en.wikipedia.org/wiki/Functional_fixedness",
-              "name-ru": "Функциональная закреплённость",
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Функциональная_закреплённость",
-              "desc-ru": "Использование предмета в каком-то одном качестве препятствует последующему использованию его в ином качестве в этой же текущей ситуации"
+              "nameEn": "Functional fixedness",
+              "wikiEn": "https://en.wikipedia.org/wiki/Functional_fixedness",
+              "nameRu": "Функциональная закреплённость",
+              "wikiRu": "https://ru.wikipedia.org/wiki/Функциональная_закреплённость",
+              "descRu": "Использование предмета в каком-то одном качестве препятствует последующему использованию его в ином качестве в этой же текущей ситуации",
+              "descEn": null
             },
             {
-              "name": "Moral credential effect",
-              "wiki-en": "https://en.wikipedia.org/wiki/Moral_credential_effect",
-              "name-ru": "Эффект моральной непогрешимости",
-              "wiki-ru": null,
-              "desc-ru": "Человек, которого другие члены группы считают склонным к эгалитаризму (формированию равноправного общества), с большей вероятностью будет впоследствии принимать элитаристские решения (ведущие к неравноправию)"
+              "nameEn": "Moral credential effect",
+              "wikiEn": "https://en.wikipedia.org/wiki/Moral_credential_effect",
+              "nameRu": "Эффект моральной непогрешимости",
+              "wikiRu": null,
+              "descRu": "Человек, которого другие члены группы считают склонным к эгалитаризму (формированию равноправного общества), с большей вероятностью будет впоследствии принимать элитаристские решения (ведущие к неравноправию)",
+              "descEn": null
             },
             {
-              "name": "Just-world hypothesis",
-              "wiki-en": "https://en.wikipedia.org/wiki/Just-world_hypothesis",
-              "name-ru": "Вера в справедливый мир",
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Вера_в_справедливый_мир",
-              "desc-ru": "Вера в то, что мир устроен справедливо, и люди в жизни получают то, что заслуживают в соответствии со своими личными качествами и поступками: хорошие люди награждаются, а плохие — наказываются"
+              "nameEn": "Just-world hypothesis",
+              "wikiEn": "https://en.wikipedia.org/wiki/Just-world_hypothesis",
+              "nameRu": "Вера в справедливый мир",
+              "wikiRu": "https://ru.wikipedia.org/wiki/Вера_в_справедливый_мир",
+              "descRu": "Вера в то, что мир устроен справедливо, и люди в жизни получают то, что заслуживают в соответствии со своими личными качествами и поступками: хорошие люди награждаются, а плохие — наказываются",
+              "descEn": null
             },
             {
-              "name": "Argument from fallacy (or fallacy fallacy)",
-              "wiki-en": "https://en.wikipedia.org/wiki/Argument_from_fallacy",
-              "name-ru": "Ошибка аргументации от ошибки",
-              "wiki-ru": null,
-              "desc-ru": "Ошибка в утверждении, что если некий аргумент содержит логическое заблуждение, то выводы из него автоматически являются ложными"
+              "nameEn": "Argument from fallacy (or fallacy fallacy)",
+              "wikiEn": "https://en.wikipedia.org/wiki/Argument_from_fallacy",
+              "nameRu": "Ошибка аргументации от ошибки",
+              "wikiRu": null,
+              "descRu": "Ошибка в утверждении, что если некий аргумент содержит логическое заблуждение, то выводы из него автоматически являются ложными",
+              "descEn": null
             },
             {
-              "name": "Authority bias",
-              "wiki-en": "https://en.wikipedia.org/wiki/Authority_bias",
-              "name-ru": "Апелляция к авторитету",
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Argumentum_ad_verecundiam",
-              "desc-ru": "Склонность полагаться на мнение авторитета или подчиняться авторитету, независимо от содержания его мнения (см. также эксперименты Стэнли Милгрэма)"
+              "nameEn": "Authority bias",
+              "wikiEn": "https://en.wikipedia.org/wiki/Authority_bias",
+              "nameRu": "Апелляция к авторитету",
+              "wikiRu": "https://ru.wikipedia.org/wiki/Argumentum_ad_verecundiam",
+              "descRu": "Склонность полагаться на мнение авторитета или подчиняться авторитету, независимо от содержания его мнения (см. также эксперименты Стэнли Милгрэма)",
+              "descEn": null
             },
             {
-              "name": "Automation bias",
-              "wiki-en": "https://en.wikipedia.org/wiki/Automation_bias",
-              "name-ru": "Заблуждение надёжности автоматизации",
-              "wiki-ru": null,
-              "desc-ru": "Склонность к самоуспокоению или чрезмерной зависимости от средств автоматизации (производственных линий, роботов, автоматизированных систем принятия решений и так далее)"
+              "nameEn": "Automation bias",
+              "wikiEn": "https://en.wikipedia.org/wiki/Automation_bias",
+              "nameRu": "Заблуждение надёжности автоматизации",
+              "wikiRu": null,
+              "descRu": "Склонность к самоуспокоению или чрезмерной зависимости от средств автоматизации (производственных линий, роботов, автоматизированных систем принятия решений и так далее)",
+              "descEn": null
             },
             {
-              "name": "Bandwagon effect",
-              "wiki-en": "https://en.wikipedia.org/wiki/Bandwagon_effect",
-              "name-ru": [
+              "nameEn": "Bandwagon effect",
+              "wikiEn": "https://en.wikipedia.org/wiki/Bandwagon_effect",
+              "nameRu": [
                 "Эффект присоединения к большинству",
                 "Эффект повального увлечения"
               ],
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Эффект_присоединения_к_большинству",
-              "desc-ru": "Cклонность делать что-то или верить во что-то лишь потому, что многие люди так делают или верят"
+              "wikiRu": "https://ru.wikipedia.org/wiki/Эффект_присоединения_к_большинству",
+              "descRu": "Cклонность делать что-то или верить во что-то лишь потому, что многие люди так делают или верят",
+              "descEn": null
             },
             {
-              "name": "Placebo effect",
-              "wiki-en": "https://en.wikipedia.org/wiki/Placebo#Effects",
-              "name-ru": "Эффект плацебо",
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Плацебо",
-              "desc-ru": "Эффект, при котором приём физиологически инертных веществ или прохождение нейтральных процедур без лечебных свойств (собственно «плацебо») вызывает психологический и, как следствие, физиологический ответ у пациента"
+              "nameEn": "Placebo effect",
+              "wikiEn": "https://en.wikipedia.org/wiki/Placebo#Effects",
+              "nameRu": "Эффект плацебо",
+              "wikiRu": "https://ru.wikipedia.org/wiki/Плацебо",
+              "descRu": "Эффект, при котором приём физиологически инертных веществ или прохождение нейтральных процедур без лечебных свойств (собственно «плацебо») вызывает психологический и, как следствие, физиологический ответ у пациента",
+              "descEn": null
             }
           ]
         },
         {
-          "name": "We imagine things and people we're familiar with or fond of as better",
-          "name-ru": "Мы больше ценим знакомые / симпатичные вещи и людей, чем незнакомые / несимпатичные",
+          "nameEn": "We imagine things and people we're familiar with or fond of as better",
+          "nameRu": "Мы больше ценим знакомые / симпатичные вещи и людей, чем незнакомые / несимпатичные",
           "children": [
             {
-              "name": "Out-group homogeneity bias",
-              "wiki-en": "https://en.wikipedia.org/wiki/Out-group_homogeneity",
-              "name-ru": "Искажение в оценке сходства другой группы",
-              "wiki-ru": null,
-              "desc-ru": "Склонность оценивать представителей своей социальной группы как относительно более разнообразных, чем представителей других групп («они одинаковые, мы все разные»)"
+              "nameEn": "Out-group homogeneity bias",
+              "wikiEn": "https://en.wikipedia.org/wiki/Out-group_homogeneity",
+              "nameRu": "Искажение в оценке сходства другой группы",
+              "wikiRu": null,
+              "descRu": "Склонность оценивать представителей своей социальной группы как относительно более разнообразных, чем представителей других групп («они одинаковые, мы все разные»)",
+              "descEn": null
             },
             {
-              "name": "Cross-race effect",
-              "wiki-en": "https://en.wikipedia.org/wiki/Cross-race_effect",
-              "name-ru": "Межрасовый эффект",
-              "wiki-ru": null,
-              "desc-ru": "Склонность к более лёгкому распознаванию представителей собственной расы и затруднённому распознаванию представителей иных рас (включая черты лица, вариации цвета кожи и глаз, текстуры волос, эмоции)"
+              "nameEn": "Cross-race effect",
+              "wikiEn": "https://en.wikipedia.org/wiki/Cross-race_effect",
+              "nameRu": "Межрасовый эффект",
+              "wikiRu": null,
+              "descRu": "Склонность к более лёгкому распознаванию представителей собственной расы и затруднённому распознаванию представителей иных рас (включая черты лица, вариации цвета кожи и глаз, текстуры волос, эмоции)",
+              "descEn": null
             },
             {
-              "name": "In-group bias",
-              "wiki-en": "https://en.wikipedia.org/wiki/In-group_favoritism",
-              "name-ru": "Искажение в пользу своей группы",
-              "wiki-ru": null,
-              "desc-ru": "Склонность отдавать предпочтение тем, кого вы считаете «своими», представителям вашей социальной группы (включая оценку, распределение ресурсов и так далее)"
+              "nameEn": "In-group bias",
+              "wikiEn": "https://en.wikipedia.org/wiki/In-group_favoritism",
+              "nameRu": "Искажение в пользу своей группы",
+              "wikiRu": null,
+              "descRu": "Склонность отдавать предпочтение тем, кого вы считаете «своими», представителям вашей социальной группы (включая оценку, распределение ресурсов и так далее)",
+              "descEn": null
             },
             {
-              "name": "Halo effect",
-              "wiki-en": "https://en.wikipedia.org/wiki/Halo_effect",
-              "name-ru": "Гало-эффект (эффект ореола)",
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Гало-эффект",
-              "desc-ru": "Воздействие общего впечатления о чём-либо (явлении, человеке, вещи) на восприятие его частных особенностей"
+              "nameEn": "Halo effect",
+              "wikiEn": "https://en.wikipedia.org/wiki/Halo_effect",
+              "nameRu": "Гало-эффект (эффект ореола)",
+              "wikiRu": "https://ru.wikipedia.org/wiki/Гало-эффект",
+              "descRu": "Воздействие общего впечатления о чём-либо (явлении, человеке, вещи) на восприятие его частных особенностей",
+              "descEn": null
             },
             {
-              "name": "Cheerleader effect",
-              "wiki-en": "https://en.wikipedia.org/wiki/Cheerleader_effect",
-              "name-ru": "Эффект чирлидерши",
-              "wiki-ru": null,
-              "desc-ru": "Ошибка в оценке привлекательности: в группе люди кажутся более привлекательными, чем поодиночке"
+              "nameEn": "Cheerleader effect",
+              "wikiEn": "https://en.wikipedia.org/wiki/Cheerleader_effect",
+              "nameRu": "Эффект чирлидерши",
+              "wikiRu": null,
+              "descRu": "Ошибка в оценке привлекательности: в группе люди кажутся более привлекательными, чем поодиночке",
+              "descEn": null
             },
             {
-              "name": "Positivity effect",
-              "wiki-en": "https://en.wikipedia.org/wiki/Positivity_effect",
-              "name-ru": "Эффект позитивности",
-              "wiki-ru": null,
-              "desc-ru": "Склонность объяснять успехи людей, которые вам нравятся (включая самих себя), их личными качествами, а провалы — неудачными обстоятельствами"
+              "nameEn": "Positivity effect",
+              "wikiEn": "https://en.wikipedia.org/wiki/Positivity_effect",
+              "nameRu": "Эффект позитивности",
+              "wikiRu": null,
+              "descRu": "Склонность объяснять успехи людей, которые вам нравятся (включая самих себя), их личными качествами, а провалы — неудачными обстоятельствами",
+              "descEn": null
             },
             {
-              "name": "Not invented here",
-              "wiki-en": "https://en.wikipedia.org/wiki/Not_invented_here",
-              "name-ru": [
+              "nameEn": "Not invented here",
+              "wikiEn": "https://en.wikipedia.org/wiki/Not_invented_here",
+              "nameRu": [
                 "Синдром неприятия чужой разработки",
                 "Фатальный недостаток"
               ],
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Синдром_неприятия_чужой_разработки",
-              "desc-ru": "Позиция в социальной, корпоративной или организационной культурах, при которой избегается использование или покупка уже существующих разработок, исследований, стандартов или знаний, из-за их внешних происхождения и затрат"
+              "wikiRu": "https://ru.wikipedia.org/wiki/Синдром_неприятия_чужой_разработки",
+              "descRu": "Позиция в социальной, корпоративной или организационной культурах, при которой избегается использование или покупка уже существующих разработок, исследований, стандартов или знаний, из-за их внешних происхождения и затрат",
+              "descEn": null
             },
             {
-              "name": "Reactive devaluation",
-              "wiki-en": "https://en.wikipedia.org/wiki/Reactive_devaluation",
-              "name-ru": "Реактивное обесценивание",
-              "wiki-ru": null,
-              "desc-ru": "Склонность обесценивать предложение или суждение, если оно исходит от противника или неприятного человека"
+              "nameEn": "Reactive devaluation",
+              "wikiEn": "https://en.wikipedia.org/wiki/Reactive_devaluation",
+              "nameRu": "Реактивное обесценивание",
+              "wikiRu": null,
+              "descRu": "Склонность обесценивать предложение или суждение, если оно исходит от противника или неприятного человека",
+              "descEn": null
             },
             {
-              "name": "Well-traveled road effect",
-              "wiki-en": "https://en.wikipedia.org/wiki/Well_travelled_road_effect",
-              "name-ru": "Эффект знакомого маршрута",
-              "wiki-ru": null,
-              "desc-ru": "Склонность путешественников по-разному оценивать продожительность маршрута в зависимости от того, насколько он им знаком (часто используемые маршруты кажутся субъективно короче по времени, чем незнакомые)"
+              "nameEn": "Well-traveled road effect",
+              "wikiEn": "https://en.wikipedia.org/wiki/Well_travelled_road_effect",
+              "nameRu": "Эффект знакомого маршрута",
+              "wikiRu": null,
+              "descRu": "Склонность путешественников по-разному оценивать продожительность маршрута в зависимости от того, насколько он им знаком (часто используемые маршруты кажутся субъективно короче по времени, чем незнакомые)",
+              "descEn": null
             }
           ]
         },
         {
-          "name": "We simplify probabilities and numbers to make them easier to think about",
-          "name-ru": "Мы упрощаем числа и вероятности, чтобы о них было легче думать",
+          "nameEn": "We simplify probabilities and numbers to make them easier to think about",
+          "nameRu": "Мы упрощаем числа и вероятности, чтобы о них было легче думать",
           "children": [
             {
-              "name": "Mental accounting",
-              "wiki-en": "https://en.wikipedia.org/wiki/Mental_accounting",
-              "name-ru": "Ментальный учёт",
-              "wiki-ru": "",
-              "desc-ru": "Набор когнитивных операций, которые люди и домохозяйства используют для кодирования, классификации и оценки своих финансовых трансакций"
+              "nameEn": "Mental accounting",
+              "wikiEn": "https://en.wikipedia.org/wiki/Mental_accounting",
+              "nameRu": "Ментальный учёт",
+              "wikiRu": "",
+              "descRu": "Набор когнитивных операций, которые люди и домохозяйства используют для кодирования, классификации и оценки своих финансовых трансакций",
+              "descEn": null
             },
             {
-              "name": "Appeal to probability fallacy",
-              "wiki-en": "https://en.wikipedia.org/wiki/Appeal_to_probability",
-              "name-ru": "Апелляция к вероятности",
-              "wiki-ru": null,
-              "desc-ru": "Склонность считать, что если какое-то событие вероятно, то оно обязательно произойдёт"
+              "nameEn": "Appeal to probability fallacy",
+              "wikiEn": "https://en.wikipedia.org/wiki/Appeal_to_probability",
+              "nameRu": "Апелляция к вероятности",
+              "wikiRu": null,
+              "descRu": "Склонность считать, что если какое-то событие вероятно, то оно обязательно произойдёт",
+              "descEn": null
             },
             {
-              "name": "Normalcy bias",
-              "wiki-en": "http://en.wikipedia.org/wiki/Normalcy_bias",
-              "name-ru": "Искажение нормального распределения",
-              "wiki-ru": null,
-              "desc-ru": "Отказ готовиться к несчастью, которое не случалось раньше, или реагировать на него; недооценка вероятности происшествия и его последствий"
+              "nameEn": "Normalcy bias",
+              "wikiEn": "http://en.wikipedia.org/wiki/Normalcy_bias",
+              "nameRu": "Искажение нормального распределения",
+              "wikiRu": null,
+              "descRu": "Отказ готовиться к несчастью, которое не случалось раньше, или реагировать на него; недооценка вероятности происшествия и его последствий",
+              "descEn": null
             },
             {
-              "name": "Murphy's Law",
-              "wiki-en": "https://en.wikipedia.org/wiki/Murphy%27s_law",
-              "name-ru": [
+              "nameEn": "Murphy's Law",
+              "wikiEn": "https://en.wikipedia.org/wiki/Murphy%27s_law",
+              "nameRu": [
                 "Закон Мёрфи",
                 "Закон подлости"
               ],
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Закон_Мерфи",
-              "desc-ru": "Группа шутливых принципов, утверждающих, что если есть вероятность того, что какая-нибудь неприятность может случиться, то она обязательно произойдёт (аналогично «бутерброду, всегда падающему маслом вниз»)"
+              "wikiRu": "https://ru.wikipedia.org/wiki/Закон_Мерфи",
+              "descRu": "Группа шутливых принципов, утверждающих, что если есть вероятность того, что какая-нибудь неприятность может случиться, то она обязательно произойдёт (аналогично «бутерброду, всегда падающему маслом вниз»)",
+              "descEn": null
             },
             {
-              "name": "Zero-sum bias",
-              "wiki-en": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3153800/",
-              "name-ru": "Отклонение в сторону нулевой суммы",
-              "wiki-ru": null,
-              "desc-ru": "Интуитивная оценка ситуации как игры с нулевой суммой (когда выигрыш одной стороны в точности равен потерям другой стороны), в то время как ситуация таковой не является и обе стороны могут выигрывать"
+              "nameEn": "Zero-sum bias",
+              "wikiEn": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3153800/",
+              "nameRu": "Отклонение в сторону нулевой суммы",
+              "wikiRu": null,
+              "descRu": "Интуитивная оценка ситуации как игры с нулевой суммой (когда выигрыш одной стороны в точности равен потерям другой стороны), в то время как ситуация таковой не является и обе стороны могут выигрывать",
+              "descEn": null
             },
             {
-              "name": "Survivorship bias",
-              "wiki-en": "https://en.wikipedia.org/wiki/Survivorship_bias",
-              "name-ru": "Систематическая ошибка выжившего",
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Систематическая_ошибка_выжившего",
-              "desc-ru": "Разновидность систематической ошибки отбора, когда исследователи концентрируются на вещах или людях, «выживших» или прошедших какой-то процесс, неумышленно упуская из рассмотрения характеристики «погибших» из-за невозможности их прямого наблюдения"
+              "nameEn": "Survivorship bias",
+              "wikiEn": "https://en.wikipedia.org/wiki/Survivorship_bias",
+              "nameRu": "Систематическая ошибка выжившего",
+              "wikiRu": "https://ru.wikipedia.org/wiki/Систематическая_ошибка_выжившего",
+              "descRu": "Разновидность систематической ошибки отбора, когда исследователи концентрируются на вещах или людях, «выживших» или прошедших какой-то процесс, неумышленно упуская из рассмотрения характеристики «погибших» из-за невозможности их прямого наблюдения",
+              "descEn": null
             },
             {
-              "name": "Subadditivity effect",
-              "wiki-en": "https://en.wikipedia.org/wiki/Subadditivity_effect",
-              "name-ru": "Эффект полуаддитивности",
-              "wiki-ru": null,
-              "desc-ru": "Склонность оценивать вероятность наступления хотя бы одного события из группы ниже, чем сумму вероятностей каждого события в отдельности"
+              "nameEn": "Subadditivity effect",
+              "wikiEn": "https://en.wikipedia.org/wiki/Subadditivity_effect",
+              "nameRu": "Эффект полуаддитивности",
+              "wikiRu": null,
+              "descRu": "Склонность оценивать вероятность наступления хотя бы одного события из группы ниже, чем сумму вероятностей каждого события в отдельности",
+              "descEn": null
             },
             {
-              "name": "Denomination effect",
-              "wiki-en": "https://en.wikipedia.org/wiki/Denomination_effect",
-              "name-ru": "Эффект ценности денежных знаков",
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Эффект_ценности_денежных_знаков",
-              "desc-ru": "Склонность скорее потратить деньги в мелких, «размененных» купюрах, чем такую же сумму в крупных"
+              "nameEn": "Denomination effect",
+              "wikiEn": "https://en.wikipedia.org/wiki/Denomination_effect",
+              "nameRu": "Эффект ценности денежных знаков",
+              "wikiRu": "https://ru.wikipedia.org/wiki/Эффект_ценности_денежных_знаков",
+              "descRu": "Склонность скорее потратить деньги в мелких, «размененных» купюрах, чем такую же сумму в крупных",
+              "descEn": null
             },
             {
-              "name": "Magic number 7+-2",
-              "wiki-en": "https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two",
-              "name-ru": "Магическое число 7 ± 2",
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Магическое_число_семь_плюс-минус_два",
-              "desc-ru": "Закономерность, согласно которой кратковременная человеческая память, как правило, не может запомнить и повторить более 7 ± 2 элементов"
+              "nameEn": "Magic number 7+-2",
+              "wikiEn": "https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two",
+              "nameRu": "Магическое число 7 ± 2",
+              "wikiRu": "https://ru.wikipedia.org/wiki/Магическое_число_семь_плюс-минус_два",
+              "descRu": "Закономерность, согласно которой кратковременная человеческая память, как правило, не может запомнить и повторить более 7 ± 2 элементов",
+              "descEn": null
             }
           ]
         },
         {
-          "name": "We think we know what other people are thinking",
-          "name-ru": "Мы думаем, что знаем, о чём думают другие",
+          "nameEn": "We think we know what other people are thinking",
+          "nameRu": "Мы думаем, что знаем, о чём думают другие",
           "children": [
             {
-              "name": "Illusion of transparency",
-              "wiki-en": "https://en.wikipedia.org/wiki/Illusion_of_transparency",
-              "name-ru": "Иллюзия прозрачности",
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Иллюзия_прозрачности",
-              "desc-ru": "Склонность переоценивать и свою способность понимать других, и способность других понимать тебя"
+              "nameEn": "Illusion of transparency",
+              "wikiEn": "https://en.wikipedia.org/wiki/Illusion_of_transparency",
+              "nameRu": "Иллюзия прозрачности",
+              "wikiRu": "https://ru.wikipedia.org/wiki/Иллюзия_прозрачности",
+              "descRu": "Склонность переоценивать и свою способность понимать других, и способность других понимать тебя",
+              "descEn": null
             },
             {
-              "name": "Curse of knowledge",
-              "wiki-en": "http://en.wikipedia.org/wiki/Curse_of_knowledge",
-              "name-ru": "Проклятие знания",
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Проклятие_знания",
-              "desc-ru": "Хорошо знакомым с проблемой людям очень сложно рассматривать её с точки зрения менее информированных людей («учитель не может подобрать понятные объяснения сложной темы для учеников»)"
+              "nameEn": "Curse of knowledge",
+              "wikiEn": "http://en.wikipedia.org/wiki/Curse_of_knowledge",
+              "nameRu": "Проклятие знания",
+              "wikiRu": "https://ru.wikipedia.org/wiki/Проклятие_знания",
+              "descRu": "Хорошо знакомым с проблемой людям очень сложно рассматривать её с точки зрения менее информированных людей («учитель не может подобрать понятные объяснения сложной темы для учеников»)",
+              "descEn": null
             },
             {
-              "name": "Spotlight effect",
-              "wiki-en": "https://en.wikipedia.org/wiki/Spotlight_effect",
-              "name-ru": "Эффект прожектора",
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Эффект_прожектора",
-              "desc-ru": "Склонность к  завышению оценки того, насколько действия человека и его внешний вид заметны для окружающих"
+              "nameEn": "Spotlight effect",
+              "wikiEn": "https://en.wikipedia.org/wiki/Spotlight_effect",
+              "nameRu": "Эффект прожектора",
+              "wikiRu": "https://ru.wikipedia.org/wiki/Эффект_прожектора",
+              "descRu": "Склонность к  завышению оценки того, насколько действия человека и его внешний вид заметны для окружающих",
+              "descEn": null
             },
             {
-              "name": "Extrinsic incentive error",
-              "wiki-en": "https://en.wikipedia.org/wiki/Extrinsic_incentives_bias",
-              "name-ru": "Отклонение в сторону внешних стимулов",
-              "wiki-ru": null,
-              "desc-ru": "Исключение из ряда фундаментальных ошибок атрибуции: другие люди видятся как обладатели внешней (например, денежной) мотивации, а себя человек рассматривает как внутренне мотивированного"
+              "nameEn": "Extrinsic incentive error",
+              "wikiEn": "https://en.wikipedia.org/wiki/Extrinsic_incentives_bias",
+              "nameRu": "Отклонение в сторону внешних стимулов",
+              "wikiRu": null,
+              "descRu": "Исключение из ряда фундаментальных ошибок атрибуции: другие люди видятся как обладатели внешней (например, денежной) мотивации, а себя человек рассматривает как внутренне мотивированного",
+              "descEn": null
             },
             {
-              "name": "Illusion of external agency",
-              "wiki-en": "https://en.wikipedia.org/wiki/Illusion_of_external_agency",
-              "name-ru": "Иллюзия постороннего участия",
-              "wiki-ru": null,
-              "desc-ru": "Склонность объяснять самостоятельно сформированные предпочтения (выбор) влиянием или действиями внешних агентов (сил), которые ведут себя «положительно» (эффективны, проницательны, дружественны)"
+              "nameEn": "Illusion of external agency",
+              "wikiEn": "https://en.wikipedia.org/wiki/Illusion_of_external_agency",
+              "nameRu": "Иллюзия постороннего участия",
+              "wikiRu": null,
+              "descRu": "Склонность объяснять самостоятельно сформированные предпочтения (выбор) влиянием или действиями внешних агентов (сил), которые ведут себя «положительно» (эффективны, проницательны, дружественны)",
+              "descEn": null
             },
             {
-              "name": "Illusion of asymmetric insight",
-              "wiki-en": "https://en.wikipedia.org/wiki/Illusion_of_asymmetric_insight",
-              "name-ru": "Иллюзия асимметричной проницательности",
-              "wiki-ru": null,
-              "desc-ru": "Склонность оценивать своё понимание других людей выше, чем понимание другими людьми тебя; также склонность оценивать понимание твоей социальной группы других социальных групп выше, чем обратное"
+              "nameEn": "Illusion of asymmetric insight",
+              "wikiEn": "https://en.wikipedia.org/wiki/Illusion_of_asymmetric_insight",
+              "nameRu": "Иллюзия асимметричной проницательности",
+              "wikiRu": null,
+              "descRu": "Склонность оценивать своё понимание других людей выше, чем понимание другими людьми тебя; также склонность оценивать понимание твоей социальной группы других социальных групп выше, чем обратное",
+              "descEn": null
             }
           ]
         },
         {
-          "name": "We project our current mindset and assumptions onto the past and future",
-          "name-ru": "Мы проецируем наш текущий образ мыслей в прошлое и будущее",
+          "nameEn": "We project our current mindset and assumptions onto the past and future",
+          "nameRu": "Мы проецируем наш текущий образ мыслей в прошлое и будущее",
           "children": [
             {
-              "name": "Telescoping effect",
-              "wiki-en": "http://en.wikipedia.org/wiki/Telescoping_effect",
-              "name-ru": "Эффект телескопа",
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Эффект_телескопа",
-              "desc-ru": "Склонность воспринимать события, произошедшие недавно, более отдаленными, а события, которые случились давно — более близкими"
+              "nameEn": "Telescoping effect",
+              "wikiEn": "http://en.wikipedia.org/wiki/Telescoping_effect",
+              "nameRu": "Эффект телескопа",
+              "wikiRu": "https://ru.wikipedia.org/wiki/Эффект_телескопа",
+              "descRu": "Склонность воспринимать события, произошедшие недавно, более отдаленными, а события, которые случились давно — более близкими",
+              "descEn": null
             },
             {
-              "name": "Rosy retrospection",
-              "wiki-en": "https://en.wikipedia.org/wiki/Rosy_retrospection",
-              "name-ru": "Приукрашивание прошлого",
-              "wiki-ru": null,
-              "desc-ru": "Склонность оценивать прошлые события в настоящем более позитивно, чем они оценивались в ходе событий или сразу после их завершения"
+              "nameEn": "Rosy retrospection",
+              "wikiEn": "https://en.wikipedia.org/wiki/Rosy_retrospection",
+              "nameRu": "Приукрашивание прошлого",
+              "wikiRu": null,
+              "descRu": "Склонность оценивать прошлые события в настоящем более позитивно, чем они оценивались в ходе событий или сразу после их завершения",
+              "descEn": null
             },
             {
-              "name": "Hindsight bias",
-              "wiki-en": "https://en.wikipedia.org/wiki/Hindsight_bias",
-              "name-ru": [
+              "nameEn": "Hindsight bias",
+              "wikiEn": "https://en.wikipedia.org/wiki/Hindsight_bias",
+              "nameRu": [
                 "Ретроспективное искажение",
                 "Эффект знания задним числом"
               ],
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Ошибка_хайндсайта",
-              "desc-ru": "Склонность задним числом завышать степень собственного понимания или способности к прогнозированию результатов события, которое уже произошло, или факта, который уже был установлен, несмотря на отсутствие достаточной первоначальной информации для их предсказания"
+              "wikiRu": "https://ru.wikipedia.org/wiki/Ошибка_хайндсайта",
+              "descRu": "Склонность задним числом завышать степень собственного понимания или способности к прогнозированию результатов события, которое уже произошло, или факта, который уже был установлен, несмотря на отсутствие достаточной первоначальной информации для их предсказания",
+              "descEn": null
             },
             {
-              "name": "Outcome bias",
-              "wiki-en": "https://en.wikipedia.org/wiki/Outcome_bias",
-              "name-ru": "Искажение оценки по последствиям",
-              "wiki-ru": null,
-              "desc-ru": "Склонность оценивать качество ранее принятого решения по его последствиям, которые стали известными позднее, особенно если последствия оказались «негативными»; из оценки исключаются время, обстоятельство и известная человеку информация на момент принятия решения"
+              "nameEn": "Outcome bias",
+              "wikiEn": "https://en.wikipedia.org/wiki/Outcome_bias",
+              "nameRu": "Искажение оценки по последствиям",
+              "wikiRu": null,
+              "descRu": "Склонность оценивать качество ранее принятого решения по его последствиям, которые стали известными позднее, особенно если последствия оказались «негативными»; из оценки исключаются время, обстоятельство и известная человеку информация на момент принятия решения",
+              "descEn": null
             },
             {
-              "name": "Moral luck",
-              "wiki-en": "https://en.wikipedia.org/wiki/Moral_luck",
-              "name-ru": "Случайная добродетель",
-              "wiki-ru": null,
-              "desc-ru": "Склонность оценивать добродетельность поступка по результатам, к которым этот поступок привёл, даже если совершивший поступок не контролировал полностью само действие или его последствия"
+              "nameEn": "Moral luck",
+              "wikiEn": "https://en.wikipedia.org/wiki/Moral_luck",
+              "nameRu": "Случайная добродетель",
+              "wikiRu": null,
+              "descRu": "Склонность оценивать добродетельность поступка по результатам, к которым этот поступок привёл, даже если совершивший поступок не контролировал полностью само действие или его последствия",
+              "descEn": null
             },
             {
-              "name": "Declinism",
-              "wiki-en": "https://en.wikipedia.org/wiki/Declinism",
-              "name-ru": "Упадничество",
-              "wiki-ru": null,
-              "desc-ru": "Вера в то, что общество или социальные институты «ухудшаются»; предрасположенность рассматривать прошлое состояние общества в более позитивном ключе, а будущее в более негативном"
+              "nameEn": "Declinism",
+              "wikiEn": "https://en.wikipedia.org/wiki/Declinism",
+              "nameRu": "Упадничество",
+              "wikiRu": null,
+              "descRu": "Вера в то, что общество или социальные институты «ухудшаются»; предрасположенность рассматривать прошлое состояние общества в более позитивном ключе, а будущее в более негативном",
+              "descEn": null
             },
             {
-              "name": "Impact bias",
-              "wiki-en": "https://en.wikipedia.org/wiki/Impact_bias",
-              "name-ru": "Переоценка будущего воздействия",
-              "wiki-ru": null,
-              "desc-ru": "Склонность переоценивать потенциальную длительность или интенсивность переживаний, которые могут быть вызваны определённым событием в будущем"
+              "nameEn": "Impact bias",
+              "wikiEn": "https://en.wikipedia.org/wiki/Impact_bias",
+              "nameRu": "Переоценка будущего воздействия",
+              "wikiRu": null,
+              "descRu": "Склонность переоценивать потенциальную длительность или интенсивность переживаний, которые могут быть вызваны определённым событием в будущем",
+              "descEn": null
             },
             {
-              "name": "Pessimism bias",
-              "wiki-en": "https://en.wikipedia.org/wiki/Optimism_bias#Pessimism_bias",
-              "name-ru": "Склонность к пессимизму",
-              "wiki-ru": null,
-              "desc-ru": "Вера в то, что вероятность наступления негативного события или результата выше по сравнению с другими людьми"
+              "nameEn": "Pessimism bias",
+              "wikiEn": "https://en.wikipedia.org/wiki/Optimism_bias#Pessimism_bias",
+              "nameRu": "Склонность к пессимизму",
+              "wikiRu": null,
+              "descRu": "Вера в то, что вероятность наступления негативного события или результата выше по сравнению с другими людьми",
+              "descEn": null
             },
             {
-              "name": "Planning fallacy",
-              "wiki-en": "https://en.wikipedia.org/wiki/Planning_fallacy",
-              "name-ru": "Ошибка планирования",
-              "wiki-ru": null,
-              "desc-ru": "Склонность во время планирования будущих действий недооценивать время их совершения, независимо от предыдущего опыта"
+              "nameEn": "Planning fallacy",
+              "wikiEn": "https://en.wikipedia.org/wiki/Planning_fallacy",
+              "nameRu": "Ошибка планирования",
+              "wikiRu": null,
+              "descRu": "Склонность во время планирования будущих действий недооценивать время их совершения, независимо от предыдущего опыта",
+              "descEn": null
             },
             {
-              "name": "Time-saving bias",
-              "wiki-en": "https://en.wikipedia.org/wiki/Time-saving_bias",
-              "name-ru": "Ошибка сэкономленного времени",
-              "wiki-ru": null,
-              "desc-ru": "Склонность неточно оценивать количество времени, которое будет сэкономлено (или затрачено) на преодоление определённой дистанции при увеличении (или снижении) скорости движения, например, автомобиля"
+              "nameEn": "Time-saving bias",
+              "wikiEn": "https://en.wikipedia.org/wiki/Time-saving_bias",
+              "nameRu": "Ошибка сэкономленного времени",
+              "wikiRu": null,
+              "descRu": "Склонность неточно оценивать количество времени, которое будет сэкономлено (или затрачено) на преодоление определённой дистанции при увеличении (или снижении) скорости движения, например, автомобиля",
+              "descEn": null
             },
             {
-              "name": "Pro-innovation bias",
-              "wiki-en": "http://en.wikipedia.org/wiki/Pro-innovation_bias",
-              "name-ru": "Искажение изобретателя",
-              "wiki-ru": null,
-              "desc-ru": "Склонность слишком высоко оценивать полезность изобретения или нововведения, не замечать его недостатков, верить в его быстрое внедрение без доработок"
+              "nameEn": "Pro-innovation bias",
+              "wikiEn": "http://en.wikipedia.org/wiki/Pro-innovation_bias",
+              "nameRu": "Искажение изобретателя",
+              "wikiRu": null,
+              "descRu": "Склонность слишком высоко оценивать полезность изобретения или нововведения, не замечать его недостатков, верить в его быстрое внедрение без доработок",
+              "descEn": null
             },
             {
-              "name": "Projection bias",
-              "wiki-en": "https://en.wikipedia.org/wiki/Affective_forecasting#Projection_bias",
-              "name-ru": "Искажение в связи с проекцией",
-              "wiki-ru": null,
-              "desc-ru": "Склонность к ошибочной проекции собственного состояния, чувств или предпочтений на будущие состояния или события (см. также «Разрыв эмпатии между горячим и холодным состоянием»)"
+              "nameEn": "Projection bias",
+              "wikiEn": "https://en.wikipedia.org/wiki/Affective_forecasting#Projection_bias",
+              "nameRu": "Искажение в связи с проекцией",
+              "wikiRu": null,
+              "descRu": "Склонность к ошибочной проекции собственного состояния, чувств или предпочтений на будущие состояния или события (см. также «Разрыв эмпатии между горячим и холодным состоянием»)",
+              "descEn": null
             },
             {
-              "name": "Restraint bias",
-              "wiki-en": "https://en.wikipedia.org/wiki/Restraint_bias",
-              "name-ru": "Искажение сдержанности",
-              "wiki-ru": null,
-              "desc-ru": "Склонность переоценивать свою способность к контролю импульсивного поведения"
+              "nameEn": "Restraint bias",
+              "wikiEn": "https://en.wikipedia.org/wiki/Restraint_bias",
+              "nameRu": "Искажение сдержанности",
+              "wikiRu": null,
+              "descRu": "Склонность переоценивать свою способность к контролю импульсивного поведения",
+              "descEn": null
             },
             {
-              "name": "Self-consistency bias",
-              "wiki-en": "https://psychlopedia.wikispaces.com/self-consistency+bias",
-              "name-ru": "Искажение самосогласованности",
-              "wiki-ru": null,
-              "desc-ru": "Склонность переоценивать последовательность и непротиворечивость собственных прошлых, настоящих и будущих оценок, суждений, убеждений, эмоций, верований и т. п. (рассматривается в контексте изменения человека во времени)"
+              "nameEn": "Self-consistency bias",
+              "wikiEn": "https://psychlopedia.wikispaces.com/self-consistency+bias",
+              "nameRu": "Искажение самосогласованности",
+              "wikiRu": null,
+              "descRu": "Склонность переоценивать последовательность и непротиворечивость собственных прошлых, настоящих и будущих оценок, суждений, убеждений, эмоций, верований и т. п. (рассматривается в контексте изменения человека во времени)",
+              "descEn": null
             }
           ]
         }
       ]
     },
     {
-      "name": "Need To Act Fast",
-      "name-ru": "Необходимость быстрой реакции",
+      "nameEn": "Need To Act Fast",
+      "nameRu": "Необходимость быстрой реакции",
       "children": [
         {
-          "name": "To act, we must be confident we can make an impact and feel what we do is important",
-          "name-ru": "Чтобы действовать, мы должны быть уверены в способности что-то изменить и чувствовать важность своих поступков",
+          "nameEn": "To act, we must be confident we can make an impact and feel what we do is important",
+          "nameRu": "Чтобы действовать, мы должны быть уверены в способности что-то изменить и чувствовать важность своих поступков",
           "children": [
             {
-              "name": "Overconfidence effect",
-              "wiki-en": "http://en.wikipedia.org/wiki/Overconfidence_effect",
-              "name-ru": "Эффект самоуверенности",
-              "wiki-ru": null,
-              "desc-ru": "Субъективная уверенность в собственных суждениях статистически больше, чем объективная точность суждений, особенно когда эта уверенность относительно высока; может выражаться в переоценке собственной результативности, переоценке результативности по сравнению с другими, либо переоценке точности своих знаний"
+              "nameEn": "Overconfidence effect",
+              "wikiEn": "http://en.wikipedia.org/wiki/Overconfidence_effect",
+              "nameRu": "Эффект самоуверенности",
+              "wikiRu": null,
+              "descRu": "Субъективная уверенность в собственных суждениях статистически больше, чем объективная точность суждений, особенно когда эта уверенность относительно высока; может выражаться в переоценке собственной результативности, переоценке результативности по сравнению с другими, либо переоценке точности своих знаний",
+              "descEn": null
             },
             {
-              "name": "Social desirability bias",
-              "wiki-en": "https://en.wikipedia.org/wiki/Social_desirability_bias",
-              "name-ru": "Отклонение в сторону общественного одобрения",
-              "wiki-ru": null,
-              "desc-ru": "Склонность участников опросов общественного мнения давать ответы на вопросы, более соответствующие социально одобряемым нормам, чем действительности; часто выражается в форме преувеличения ответов, связанных с «хорошим» поведением, и преуменьшения ответов, связанных с «плохим» поведением"
+              "nameEn": "Social desirability bias",
+              "wikiEn": "https://en.wikipedia.org/wiki/Social_desirability_bias",
+              "nameRu": "Отклонение в сторону общественного одобрения",
+              "wikiRu": null,
+              "descRu": "Склонность участников опросов общественного мнения давать ответы на вопросы, более соответствующие социально одобряемым нормам, чем действительности; часто выражается в форме преувеличения ответов, связанных с «хорошим» поведением, и преуменьшения ответов, связанных с «плохим» поведением",
+              "descEn": null
             },
             {
-              "name": "Third-person effect",
-              "wiki-en": "https://en.wikipedia.org/wiki/Third-person_effect",
-              "name-ru": "Эффект третьего лица",
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Эффект_третьего_лица",
-              "desc-ru": "Склонность считать, что СМИ, реклама и иные инструменты массовых коммуникаций больше влияют на других людей, чем на себя; недооценка влияния массовых коммуникация на себя самого"
+              "nameEn": "Third-person effect",
+              "wikiEn": "https://en.wikipedia.org/wiki/Third-person_effect",
+              "nameRu": "Эффект третьего лица",
+              "wikiRu": "https://ru.wikipedia.org/wiki/Эффект_третьего_лица",
+              "descRu": "Склонность считать, что СМИ, реклама и иные инструменты массовых коммуникаций больше влияют на других людей, чем на себя; недооценка влияния массовых коммуникация на себя самого",
+              "descEn": null
             },
             {
-              "name": "False consensus effect",
-              "wiki-en": "https://en.wikipedia.org/wiki/False_consensus_effect",
-              "name-ru": "Эффект ложного согласия",
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Эффект_ложного_консенсуса",
-              "desc-ru": "Склонность переоценивать степень нормальности / типичности собственных оценок, суждений, предпочтений, ценностей, привычек среди остальных людей; склонность полагать, что все остальные думают точно так же, как сам человек"
+              "nameEn": "False consensus effect",
+              "wikiEn": "https://en.wikipedia.org/wiki/False_consensus_effect",
+              "nameRu": "Эффект ложного согласия",
+              "wikiRu": "https://ru.wikipedia.org/wiki/Эффект_ложного_консенсуса",
+              "descRu": "Склонность переоценивать степень нормальности / типичности собственных оценок, суждений, предпочтений, ценностей, привычек среди остальных людей; склонность полагать, что все остальные думают точно так же, как сам человек",
+              "descEn": null
             },
             {
-              "name": "Hard-easy effect",
-              "wiki-en": "http://en.wikipedia.org/wiki/Hard-easy_effect",
-              "name-ru": "Эффект «сложно — легко»",
-              "wiki-ru": null,
-              "desc-ru": "Склонность переоценивать вероятность достижения успеха в сложных задачах и недооценивать вероятность достижения успеха в лёгких задачах"
+              "nameEn": "Hard-easy effect",
+              "wikiEn": "http://en.wikipedia.org/wiki/Hard-easy_effect",
+              "nameRu": "Эффект «сложно — легко»",
+              "wikiRu": null,
+              "descRu": "Склонность переоценивать вероятность достижения успеха в сложных задачах и недооценивать вероятность достижения успеха в лёгких задачах",
+              "descEn": null
             },
             {
-              "name": "Dunning-Kruger effect",
-              "wiki-en": "https://en.wikipedia.org/wiki/Dunning–Kruger_effect",
-              "name-ru": "Эффект Даннинга — Крюгера",
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Эффект_Даннинга_—_Крюгера",
-              "desc-ru": "Люди, имеющие низкий уровень квалификации, делают ошибочные выводы, принимают неудачные решения и при этом не способны осознавать свои ошибки в силу низкого уровня своей квалификации (см. также «Мнимое превосходство»)"
+              "nameEn": "Dunning-Kruger effect",
+              "wikiEn": "https://en.wikipedia.org/wiki/Dunning–Kruger_effect",
+              "nameRu": "Эффект Даннинга — Крюгера",
+              "wikiRu": "https://ru.wikipedia.org/wiki/Эффект_Даннинга_—_Крюгера",
+              "descRu": "Люди, имеющие низкий уровень квалификации, делают ошибочные выводы, принимают неудачные решения и при этом не способны осознавать свои ошибки в силу низкого уровня своей квалификации (см. также «Мнимое превосходство»)",
+              "descEn": null
             },
             {
-              "name": "Egocentric bias",
-              "wiki-en": "https://en.wikipedia.org/wiki/Egocentric_bias",
-              "name-ru": "Эгоцентрическое искажение",
-              "wiki-ru": null,
-              "desc-ru": "Склонность слишком сильно полагаться на собственные суждения и/или оценивать себя выше, чем есть на самом деле; вероятно связана с потребностью удовлетворить своё эго и полезна при формировании воспоминаний"
+              "nameEn": "Egocentric bias",
+              "wikiEn": "https://en.wikipedia.org/wiki/Egocentric_bias",
+              "nameRu": "Эгоцентрическое искажение",
+              "wikiRu": null,
+              "descRu": "Склонность слишком сильно полагаться на собственные суждения и/или оценивать себя выше, чем есть на самом деле; вероятно связана с потребностью удовлетворить своё эго и полезна при формировании воспоминаний",
+              "descEn": null
             },
             {
-              "name": "Optimism bias",
-              "wiki-en": "http://en.wikipedia.org/wiki/Optimism_bias",
-              "name-ru": "Склонность к оптимизму",
-              "wiki-ru": null,
-              "desc-ru": "Вера в то, что вероятность наступления негативного события или результата ниже по сравнению с другими людьми (обычно оптимизм рассматривается именно в контексте не-наступления негативного события: стать жертвой преступления, заработать рак лёгких курильщика или потерять инвестиции)"
+              "nameEn": "Optimism bias",
+              "wikiEn": "http://en.wikipedia.org/wiki/Optimism_bias",
+              "nameRu": "Склонность к оптимизму",
+              "wikiRu": null,
+              "descRu": "Вера в то, что вероятность наступления негативного события или результата ниже по сравнению с другими людьми (обычно оптимизм рассматривается именно в контексте не-наступления негативного события: стать жертвой преступления, заработать рак лёгких курильщика или потерять инвестиции)",
+              "descEn": null
             },
             {
-              "name": [
+              "nameEn": [
                 "Barnum effect",
                 "Forer effect"
               ],
-              "wiki-en": "https://en.wikipedia.org/wiki/Barnum_effect",
-              "name-ru": [
+              "wikiEn": "https://en.wikipedia.org/wiki/Barnum_effect",
+              "nameRu": [
                 "Эффект Барнума",
                 "Эффект Форера"
               ],
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Эффект_Барнума",
-              "desc-ru": "Люди высоко оценивают точность таких описаний их личности, которые, как им кажется, созданы индивидуально для них. На самом деле эти описания неопределённы и достаточно расплывчаты, так что их можно применить и ко многим другим людям."
+              "wikiRu": "https://ru.wikipedia.org/wiki/Эффект_Барнума",
+              "descRu": "Люди высоко оценивают точность таких описаний их личности, которые, как им кажется, созданы индивидуально для них. На самом деле эти описания неопределённы и достаточно расплывчаты, так что их можно применить и ко многим другим людям.",
+              "descEn": null
             },
             {
-              "name": "Self-serving bias",
-              "wiki-en": "https://en.wikipedia.org/wiki/Self-serving_bias",
-              "name-ru": "Искажение в собственную пользу",
-              "wiki-ru": null,
-              "desc-ru": "Любое искажение когнитивного или перцептивного процесса, вызванное необходимостью поддержать или повысить свою самооценку; часто выражается в склонности объяснять успех собственными усилиями, а неудачи — воздействием внешних обстоятельств"
+              "nameEn": "Self-serving bias",
+              "wikiEn": "https://en.wikipedia.org/wiki/Self-serving_bias",
+              "nameRu": "Искажение в собственную пользу",
+              "wikiRu": null,
+              "descRu": "Любое искажение когнитивного или перцептивного процесса, вызванное необходимостью поддержать или повысить свою самооценку; часто выражается в склонности объяснять успех собственными усилиями, а неудачи — воздействием внешних обстоятельств",
+              "descEn": null
             },
             {
-              "name": "Illusion of control",
-              "wiki-en": "https://en.wikipedia.org/wiki/Illusion_of_control",
-              "name-ru": "Иллюзия контроля",
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Иллюзия_контроля",
-              "desc-ru": "Вера людей в способность каким-либо образом влиять на события, которые объективно от них не зависят или зависят в гораздо меньшей степени, чем те предполагают"
+              "nameEn": "Illusion of control",
+              "wikiEn": "https://en.wikipedia.org/wiki/Illusion_of_control",
+              "nameRu": "Иллюзия контроля",
+              "wikiRu": "https://ru.wikipedia.org/wiki/Иллюзия_контроля",
+              "descRu": "Вера людей в способность каким-либо образом влиять на события, которые объективно от них не зависят или зависят в гораздо меньшей степени, чем те предполагают",
+              "descEn": null
             },
             {
-              "name": [
+              "nameEn": [
                 "Illusory superiority",
                 "Lake Wobegon effect",
                 "Superiority bias",
                 "Above-average effect"
               ],
-              "wiki-en": "https://en.wikipedia.org/wiki/Illusory_superiority",
-              "name-ru": [
+              "wikiEn": "https://en.wikipedia.org/wiki/Illusory_superiority",
+              "nameRu": [
                 "Мнимое превосходство",
                 "Эффект Лейк-Уобегон"
               ],
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Эффект_Лейк-Уобегон",
-              "desc-ru": "Склонность переоценивать собственные качества и способности по сравнению с другими людьми"
+              "wikiRu": "https://ru.wikipedia.org/wiki/Эффект_Лейк-Уобегон",
+              "descRu": "Склонность переоценивать собственные качества и способности по сравнению с другими людьми",
+              "descEn": null
             },
             {
-              "name": [
+              "nameEn": [
                 "Fundamental attribution error",
                 "Actor-observer bias"
               ],
-              "wiki-en": "https://en.wikipedia.org/wiki/Fundamental_attribution_error",
-              "name-ru": "Фундаментальная ошибка атрибуции",
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Фундаментальная_ошибка_атрибуции",
-              "desc-ru": "Склонность объяснять поступки и поведение других людей их личностными особенностями (так называемой «внутренней диспозицией»), а собственное поведение — внешними обстоятельствами (так называемой «внешней диспозицией»)"
+              "wikiEn": "https://en.wikipedia.org/wiki/Fundamental_attribution_error",
+              "nameRu": "Фундаментальная ошибка атрибуции",
+              "wikiRu": "https://ru.wikipedia.org/wiki/Фундаментальная_ошибка_атрибуции",
+              "descRu": "Склонность объяснять поступки и поведение других людей их личностными особенностями (так называемой «внутренней диспозицией»), а собственное поведение — внешними обстоятельствами (так называемой «внешней диспозицией»)",
+              "descEn": null
             },
             {
-              "name": "Defensive attribution hypothesis",
-              "wiki-en": "https://en.wikipedia.org/wiki/Defensive_attribution_hypothesis",
-              "name-ru": "Гипотеза защитной атрибуции",
-              "wiki-ru": null,
-              "desc-ru": "Склонность меньше винить в происшествии жертву при субъективном наличии сходства с жертвой; чем меньше сходства между человеком и жертвой происшествия, тем больше ответственности тот склонен возлагать на жертву (см. также «Вера в справедливый мир»)"
+              "nameEn": "Defensive attribution hypothesis",
+              "wikiEn": "https://en.wikipedia.org/wiki/Defensive_attribution_hypothesis",
+              "nameRu": "Гипотеза защитной атрибуции",
+              "wikiRu": null,
+              "descRu": "Склонность меньше винить в происшествии жертву при субъективном наличии сходства с жертвой; чем меньше сходства между человеком и жертвой происшествия, тем больше ответственности тот склонен возлагать на жертву (см. также «Вера в справедливый мир»)",
+              "descEn": null
             },
             {
-              "name": "Trait ascription bias",
-              "wiki-en": "https://en.wikipedia.org/wiki/Trait_ascription_bias",
-              "name-ru": "Искажение при описании особенностей",
-              "wiki-ru": null,
-              "desc-ru": "Склонность воспринимать себя как относительно изменчивых в зависимости от ситуации (в личных качествах, поведении, настроении), а других людей как более предсказуемых, неизменных в поведении и качествах в различных ситуациях"
+              "nameEn": "Trait ascription bias",
+              "wikiEn": "https://en.wikipedia.org/wiki/Trait_ascription_bias",
+              "nameRu": "Искажение при описании особенностей",
+              "wikiRu": null,
+              "descRu": "Склонность воспринимать себя как относительно изменчивых в зависимости от ситуации (в личных качествах, поведении, настроении), а других людей как более предсказуемых, неизменных в поведении и качествах в различных ситуациях",
+              "descEn": null
             },
             {
-              "name": "Effort justification",
-              "wiki-en": "https://en.wikipedia.org/wiki/Effort_justification",
-              "name-ru": "Оправдание усилий",
-              "wiki-ru": null,
-              "desc-ru": "Склонность преувеличивать ценность того, в получение или достижение чего были вложены значительные усилия"
+              "nameEn": "Effort justification",
+              "wikiEn": "https://en.wikipedia.org/wiki/Effort_justification",
+              "nameRu": "Оправдание усилий",
+              "wikiRu": null,
+              "descRu": "Склонность преувеличивать ценность того, в получение или достижение чего были вложены значительные усилия",
+              "descEn": null
             },
             {
-              "name": [
+              "nameEn": [
                 "Risk compensation",
                 "Peltzman effect"
               ],
-              "wiki-en": "https://en.wikipedia.org/wiki/Risk_compensation",
-              "name-ru": [
+              "wikiEn": "https://en.wikipedia.org/wiki/Risk_compensation",
+              "nameRu": [
                 "Отклонение в сторону компенсации риска",
                 "Эффект Пелцмана"
               ],
-              "wiki-ru": null,
-              "desc-ru": "Склонность подстраивать поведение под осознаваемый уровень опасности: быть осторожнее при высоком уровне опасности и активнее рисковать при меньшем уровне опасности"
+              "wikiRu": null,
+              "descRu": "Склонность подстраивать поведение под осознаваемый уровень опасности: быть осторожнее при высоком уровне опасности и активнее рисковать при меньшем уровне опасности",
+              "descEn": null
             }
           ]
         },
         {
-          "name": "To stay focused, we favor the immediate, relatable thing in front of us",
-          "name-ru": "Мы предпочитаем фокусироваться на немедленных и близких результатах вместо отложенных во времени и пространстве",
+          "nameEn": "To stay focused, we favor the immediate, relatable thing in front of us",
+          "nameRu": "Мы предпочитаем фокусироваться на немедленных и близких результатах вместо отложенных во времени и пространстве",
           "children": [
             {
-              "name": "Hyperbolic discounting",
-              "wiki-en": "http://en.wikipedia.org/wiki/Hyperbolic_discounting",
-              "name-ru": "Переоценка скидок",
-              "wiki-ru": null,
-              "desc-ru": "Чем ближе две выплаты (более ранняя и более поздняя) к настоящему времени, тем субъективно предпочтительнее более ранняя из них"
+              "nameEn": "Hyperbolic discounting",
+              "wikiEn": "http://en.wikipedia.org/wiki/Hyperbolic_discounting",
+              "nameRu": "Переоценка скидок",
+              "wikiRu": null,
+              "descRu": "Чем ближе две выплаты (более ранняя и более поздняя) к настоящему времени, тем субъективно предпочтительнее более ранняя из них",
+              "descEn": null
             },
             {
-              "name": [
+              "nameEn": [
                 "Appeal to novelty",
                 "Argumentum ad novitatem"
               ],
-              "wiki-en": "https://en.wikipedia.org/wiki/Appeal_to_novelty",
-              "name-ru": [
+              "wikiEn": "https://en.wikipedia.org/wiki/Appeal_to_novelty",
+              "nameRu": [
                 "Апелляция к новизне",
                 "Argumentum ad novitatem"
               ],
-              "wiki-ru": null,
-              "desc-ru": "Склонность высоко ценить идею или предложение исключительно по причине их новизны (автоматически считая это лучшим вариантом), либо недооценивать статус кво (автоматически считая его сохранение худшим вариантом)"
+              "wikiRu": null,
+              "descRu": "Склонность высоко ценить идею или предложение исключительно по причине их новизны (автоматически считая это лучшим вариантом), либо недооценивать статус кво (автоматически считая его сохранение худшим вариантом)",
+              "descEn": null
             },
             {
-              "name": "Identifiable victim effect",
-              "wiki-en": "Эффект опознаваемой жертвы",
-              "name-ru": "http://en.wikipedia.org/wiki/Identifiable_victim_effect",
-              "wiki-ru": null,
-              "desc-ru": "Склонность предлагать большую помощь, если жертва специфична и идентифицируема, и меньшую, если нужду испытывает большая и слабо определённая группа людей («Смерть одного — трагедия, миллионов — статистика»)"
+              "nameEn": "Identifiable victim effect",
+              "wikiEn": "Эффект опознаваемой жертвы",
+              "nameRu": "http://en.wikipedia.org/wiki/Identifiable_victim_effect",
+              "wikiRu": null,
+              "descRu": "Склонность предлагать большую помощь, если жертва специфична и идентифицируема, и меньшую, если нужду испытывает большая и слабо определённая группа людей («Смерть одного — трагедия, миллионов — статистика»)",
+              "descEn": null
             }
           ]
         },
         {
-          "name": "To get anything done, we tend to complete things we've invested time and energy in",
-          "name-ru": "Мы предпочитаем завершать то, во что ранее уже вложили время и усилия",
+          "nameEn": "To get anything done, we tend to complete things we've invested time and energy in",
+          "nameRu": "Мы предпочитаем завершать то, во что ранее уже вложили время и усилия",
           "children": [
             {
-              "name": [
+              "nameEn": [
                 "Escalation of commitment",
                 "Irrational escalation",
                 "Sunk cost fallacy"
               ],
-              "wiki-en": "https://en.wikipedia.org/wiki/Escalation_of_commitment",
-              "name-ru": [
+              "wikiEn": "https://en.wikipedia.org/wiki/Escalation_of_commitment",
+              "nameRu": [
                 "Усиление обязательства",
                 "Иррациональное усиление"
               ],
-              "wiki-ru": null,
-              "desc-ru": "Склонность индивида или группы рационализировать прошлые действия, решения и инвестиции перед лицом непрерывно ухудшающихся результатов вместо того, чтобы изменить или прекратить действия (в том числе, например, продолжать инвестиции); ср. «нести тяжело и бросить жалко»"
+              "wikiRu": null,
+              "descRu": "Склонность индивида или группы рационализировать прошлые действия, решения и инвестиции перед лицом непрерывно ухудшающихся результатов вместо того, чтобы изменить или прекратить действия (в том числе, например, продолжать инвестиции); ср. «нести тяжело и бросить жалко»",
+              "descEn": null
             },
             {
-              "name": "Generation effect",
-              "wiki-en": "https://en.wikipedia.org/wiki/Generation_effect",
-              "name-ru": "Эффект создания информация",
-              "wiki-ru": null,
-              "desc-ru": "Информация, которую человек создаёт сам, запоминается лучше, чем прочитанная или узнанная информация от других людей"
+              "nameEn": "Generation effect",
+              "wikiEn": "https://en.wikipedia.org/wiki/Generation_effect",
+              "nameRu": "Эффект создания информация",
+              "wikiRu": null,
+              "descRu": "Информация, которую человек создаёт сам, запоминается лучше, чем прочитанная или узнанная информация от других людей",
+              "descEn": null
             },
             {
-              "name": "Loss aversion",
-              "wiki-en": "https://en.wikipedia.org/wiki/Loss_aversion",
-              "name-ru": "Неприятие потери",
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Теория_перспектив",
-              "desc-ru": "Склонность предпочитать избегание потерь равнозначным шансам на выгоду: лучше не потерять 100 рублей, чем найти 100 рублей"
+              "nameEn": "Loss aversion",
+              "wikiEn": "https://en.wikipedia.org/wiki/Loss_aversion",
+              "nameRu": "Неприятие потери",
+              "wikiRu": "https://ru.wikipedia.org/wiki/Теория_перспектив",
+              "descRu": "Склонность предпочитать избегание потерь равнозначным шансам на выгоду: лучше не потерять 100 рублей, чем найти 100 рублей",
+              "descEn": null
             },
             {
-              "name": "IKEA effect",
-              "wiki-en": "https://en.wikipedia.org/wiki/IKEA_effect",
-              "name-ru": "Эффект IKEA",
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Эффект_IKEA",
-              "desc-ru": "Склонность переоценивать значимость товаров, которые покупатель создаёт отчасти самостоятельно (например, собирает из деталей)"
+              "nameEn": "IKEA effect",
+              "wikiEn": "https://en.wikipedia.org/wiki/IKEA_effect",
+              "nameRu": "Эффект IKEA",
+              "wikiRu": "https://ru.wikipedia.org/wiki/Эффект_IKEA",
+              "descRu": "Склонность переоценивать значимость товаров, которые покупатель создаёт отчасти самостоятельно (например, собирает из деталей)",
+              "descEn": null
             },
             {
-              "name": "Unit bias",
-              "wiki-en": "http://www.alleydog.com/glossary/definition.php?term=Unit%20Bias",
-              "name-ru": "Отклонение в сторону целого",
-              "wiki-ru": null,
-              "desc-ru": "Склонность избегать незаконченности, завершать работу или другой процесс (широко исследовалась в отношении к употреблению пищи и контролю размера порций)"
+              "nameEn": "Unit bias",
+              "wikiEn": "http://www.alleydog.com/glossary/definition.php?term=Unit%20Bias",
+              "nameRu": "Отклонение в сторону целого",
+              "wikiRu": null,
+              "descRu": "Склонность избегать незаконченности, завершать работу или другой процесс (широко исследовалась в отношении к употреблению пищи и контролю размера порций)",
+              "descEn": null
             },
             {
-              "name": "Zero-risk bias",
-              "wiki-en": "https://en.wikipedia.org/wiki/Zero-risk_bias",
-              "name-ru": "Предпочтение нулевого риска",
-              "wiki-ru": null,
-              "desc-ru": "Склонность сильнее желать исключения одного риска, чем резкого уменьшения другого, более значительного риска; теракт и авиакатастрофы пугают сильнее, хотя в автокатастрофах людей гибнет намного больше"
+              "nameEn": "Zero-risk bias",
+              "wikiEn": "https://en.wikipedia.org/wiki/Zero-risk_bias",
+              "nameRu": "Предпочтение нулевого риска",
+              "wikiRu": null,
+              "descRu": "Склонность сильнее желать исключения одного риска, чем резкого уменьшения другого, более значительного риска; теракт и авиакатастрофы пугают сильнее, хотя в автокатастрофах людей гибнет намного больше",
+              "descEn": null
             },
             {
-              "name": "Disposition effect",
-              "wiki-en": "https://en.wikipedia.org/wiki/Disposition_effect",
-              "name-ru": "Эффект диспозиции",
-              "wiki-ru": null,
-              "desc-ru": "Склонность инвесторов продавать ценные бумаги, стоимость которых выросла, и сохранять позиции в ценных бумагах, потерявших в стоимости"
+              "nameEn": "Disposition effect",
+              "wikiEn": "https://en.wikipedia.org/wiki/Disposition_effect",
+              "nameRu": "Эффект диспозиции",
+              "wikiRu": null,
+              "descRu": "Склонность инвесторов продавать ценные бумаги, стоимость которых выросла, и сохранять позиции в ценных бумагах, потерявших в стоимости",
+              "descEn": null
             },
             {
-              "name": "Pseudocertainty effect",
-              "wiki-en": "http://en.wikipedia.org/wiki/Pseudocertainty_effect",
-              "name-ru": "Эффект псевдоуверенности",
-              "wiki-ru": null,
-              "desc-ru": "Склонность ожидать бесспорного результата тогда, когда он совсем не гарантирован (в поведенческой экономике); обычно связан с пропуском одного из шагов в цепочке принимаемых решений"
+              "nameEn": "Pseudocertainty effect",
+              "wikiEn": "http://en.wikipedia.org/wiki/Pseudocertainty_effect",
+              "nameRu": "Эффект псевдоуверенности",
+              "wikiRu": null,
+              "descRu": "Склонность ожидать бесспорного результата тогда, когда он совсем не гарантирован (в поведенческой экономике); обычно связан с пропуском одного из шагов в цепочке принимаемых решений",
+              "descEn": null
             },
             {
-              "name": "Processing difficulty effect",
-              "wiki-en": "https://en.wikipedia.org/wiki/List_of_cognitive_biases#Processing_difficulty_effect",
-              "name-ru": "Эффект сложности обработки информации",
-              "wiki-ru": null,
-              "desc-ru": "Информация, на прочтение и обдумывание (обрабатывание) которой пришлось затратить больше усилий, запоминается проще"
+              "nameEn": "Processing difficulty effect",
+              "wikiEn": "https://en.wikipedia.org/wiki/List_of_cognitive_biases#Processing_difficulty_effect",
+              "nameRu": "Эффект сложности обработки информации",
+              "wikiRu": null,
+              "descRu": "Информация, на прочтение и обдумывание (обрабатывание) которой пришлось затратить больше усилий, запоминается проще",
+              "descEn": null
             },
             {
-              "name": [
+              "nameEn": [
                 "Endowment effect",
                 "Divestiture aversion"
               ],
-              "wiki-en": "https://en.wikipedia.org/wiki/Endowment_effect",
-              "name-ru": "Эффект вклада",
-              "wiki-ru": null,
-              "desc-ru": "Склонность присваивать ценность собственным вещам только по причине владения ими; склонность индивида требовать за принадлежащий ему объект значительно большую цену, чем он сам был бы готов заплатить, чтобы его приобрести"
+              "wikiEn": "https://en.wikipedia.org/wiki/Endowment_effect",
+              "nameRu": "Эффект вклада",
+              "wikiRu": null,
+              "descRu": "Склонность присваивать ценность собственным вещам только по причине владения ими; склонность индивида требовать за принадлежащий ему объект значительно большую цену, чем он сам был бы готов заплатить, чтобы его приобрести",
+              "descEn": null
             },
             {
-              "name": "Backfire effect",
-              "wiki-en": "https://en.wikipedia.org/wiki/Confirmation_bias#backfire_effect",
-              "name-ru": "Эффект обратного результата",
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Склонность_к_подтверждению_своей_точки_зрения#.D0.9F.D0.BE.D0.BB.D1.8F.D1.80.D0.B8.D0.B7.D0.B0.D1.86.D0.B8.D1.8F_.D0.BC.D0.BD.D0.B5.D0.BD.D0.B8.D0.B9",
-              "desc-ru": "Ситуация, когда при показаниях против их убеждений люди могут отбросить эти показания и стать более уверенными в своих существующих убеждениях"
+              "nameEn": "Backfire effect",
+              "wikiEn": "https://en.wikipedia.org/wiki/Confirmation_bias#backfire_effect",
+              "nameRu": "Эффект обратного результата",
+              "wikiRu": "https://ru.wikipedia.org/wiki/Склонность_к_подтверждению_своей_точки_зрения#.D0.9F.D0.BE.D0.BB.D1.8F.D1.80.D0.B8.D0.B7.D0.B0.D1.86.D0.B8.D1.8F_.D0.BC.D0.BD.D0.B5.D0.BD.D0.B8.D0.B9",
+              "descRu": "Ситуация, когда при показаниях против их убеждений люди могут отбросить эти показания и стать более уверенными в своих существующих убеждениях",
+              "descEn": null
             }
           ]
         },
         {
-          "name": "We’re motivated to preserve our autonomy and status in a group, and to avoid irreversible decisions.",
-          "name-ru": "Мы склонны сохранять личную автономию и текущий статус в группе, избегая необратимых решений",
+          "nameEn": "We’re motivated to preserve our autonomy and status in a group, and to avoid irreversible decisions.",
+          "nameRu": "Мы склонны сохранять личную автономию и текущий статус в группе, избегая необратимых решений",
           "children": [
             {
-              "name": "System justification",
-              "wiki-en": "https://en.wikipedia.org/wiki/System_justification",
-              "name-ru": "Оправдание системы",
-              "wiki-ru": null,
-              "desc-ru": "Склонность сохранять существующее социальное, политическое и экономическое устройство, отрицать перемены, даже если ради этого приходится жертвовать чьими-то личными и коллективными интересами"
+              "nameEn": "System justification",
+              "wikiEn": "https://en.wikipedia.org/wiki/System_justification",
+              "nameRu": "Оправдание системы",
+              "wikiRu": null,
+              "descRu": "Склонность сохранять существующее социальное, политическое и экономическое устройство, отрицать перемены, даже если ради этого приходится жертвовать чьими-то личными и коллективными интересами",
+              "descEn": null
             },
             {
-              "name": "Reverse psychology",
-              "wiki-en": "https://en.wikipedia.org/wiki/Reverse_psychology",
-              "name-ru": "Реверсивная психология",
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Реверсивная_психология",
-              "desc-ru": "Феномен, при котором воспитание, пропаганда или склонение к определённому действию вызывает реакцию, прямо противоположную предполагаемой (оппозиция или противодействие)"
+              "nameEn": "Reverse psychology",
+              "wikiEn": "https://en.wikipedia.org/wiki/Reverse_psychology",
+              "nameRu": "Реверсивная психология",
+              "wikiRu": "https://ru.wikipedia.org/wiki/Реверсивная_психология",
+              "descRu": "Феномен, при котором воспитание, пропаганда или склонение к определённому действию вызывает реакцию, прямо противоположную предполагаемой (оппозиция или противодействие)",
+              "descEn": null
             },
             {
-              "name": "Reactance",
-              "wiki-en": "http://en.wikipedia.org/wiki/Reactance_(psychology)",
-              "name-ru": "Реактивное сопротивление",
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Реактивное_сопротивление_(психология)",
-              "desc-ru": "Мотивационное состояние, возникающее в ситуации, когда какое-либо внешнее условие (другой человек, предложение, или правило) ограничивает свободу или создает угрозу ограничения проявлений индивида"
+              "nameEn": "Reactance",
+              "wikiEn": "http://en.wikipedia.org/wiki/Reactance_(psychology)",
+              "nameRu": "Реактивное сопротивление",
+              "wikiRu": "https://ru.wikipedia.org/wiki/Реактивное_сопротивление_(психология)",
+              "descRu": "Мотивационное состояние, возникающее в ситуации, когда какое-либо внешнее условие (другой человек, предложение, или правило) ограничивает свободу или создает угрозу ограничения проявлений индивида",
+              "descEn": null
             },
             {
-              "name": "Decoy effect",
-              "wiki-en": "https://en.wikipedia.org/wiki/Decoy_effect",
-              "name-ru": [
+              "nameEn": "Decoy effect",
+              "wikiEn": "https://en.wikipedia.org/wiki/Decoy_effect",
+              "nameRu": [
                 "Эффект приманки",
                 "Эффект асимметричного превосходства"
               ],
-              "wiki-ru": null,
-              "desc-ru": "Введение «подсадной утки», варианта #3, влияет на выбор между двумя; если #3 во всем хуже #1, но частью лучше, а частью хуже, чем #2, то #1 становится популярнее (даже если часть свойств #2 лучше, чем у #1)"
+              "wikiRu": null,
+              "descRu": "Введение «подсадной утки», варианта #3, влияет на выбор между двумя; если #3 во всем хуже #1, но частью лучше, а частью хуже, чем #2, то #1 становится популярнее (даже если часть свойств #2 лучше, чем у #1)",
+              "descEn": null
             },
             {
-              "name": "Social comparison bias",
-              "wiki-en": "https://en.wikipedia.org/wiki/Social_comparison_bias",
-              "name-ru": "Искажение социального сравнения",
-              "wiki-ru": null,
-              "desc-ru": "Склонность ощущать неприязнь или чувство соперничества к кому-либо, превосходящему физически или интеллектуально"
+              "nameEn": "Social comparison bias",
+              "wikiEn": "https://en.wikipedia.org/wiki/Social_comparison_bias",
+              "nameRu": "Искажение социального сравнения",
+              "wikiRu": null,
+              "descRu": "Склонность ощущать неприязнь или чувство соперничества к кому-либо, превосходящему физически или интеллектуально",
+              "descEn": null
             },
             {
-              "name": "Status quo bias",
-              "wiki-en": "http://en.wikipedia.org/wiki/Status_quo_bias",
-              "name-ru": "Отклонение в сторону статуса кво",
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Отклонение_в_сторону_статуса_кво",
-              "desc-ru": "Склонность желать, чтобы вещи оставались приблизительно теми же самыми, сохраняли статус кво; склонность воспринимать отклонение от статуса кво как потери"
+              "nameEn": "Status quo bias",
+              "wikiEn": "http://en.wikipedia.org/wiki/Status_quo_bias",
+              "nameRu": "Отклонение в сторону статуса кво",
+              "wikiRu": "https://ru.wikipedia.org/wiki/Отклонение_в_сторону_статуса_кво",
+              "descRu": "Склонность желать, чтобы вещи оставались приблизительно теми же самыми, сохраняли статус кво; склонность воспринимать отклонение от статуса кво как потери",
+              "descEn": null
             }
           ]
         },
         {
-          "name": "We favor options that appear simple or have more complete information over more complex, ambiguous options",
-          "name-ru": "Мы предпочитаем просто выглядящие и однозначные варианты выбора более сложным и неопределённым",
+          "nameEn": "We favor options that appear simple or have more complete information over more complex, ambiguous options",
+          "nameRu": "Мы предпочитаем просто выглядящие и однозначные варианты выбора более сложным и неопределённым",
           "children": [
             {
-              "name": "Ambiguity bias",
-              "wiki-en": "http://en.wikipedia.org/wiki/Ambiguity_effect",
-              "name-ru": "Эффект неоднозначности",
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Эффект_неоднозначности",
-              "desc-ru": "Склонность выбирать решение, для которого вероятность благоприятного исхода известна, по сравнению с решением, когда вероятность благоприятного исхода не известна («лучше понятный риск, чем неопределенность»)"
+              "nameEn": "Ambiguity bias",
+              "wikiEn": "http://en.wikipedia.org/wiki/Ambiguity_effect",
+              "nameRu": "Эффект неоднозначности",
+              "wikiRu": "https://ru.wikipedia.org/wiki/Эффект_неоднозначности",
+              "descRu": "Склонность выбирать решение, для которого вероятность благоприятного исхода известна, по сравнению с решением, когда вероятность благоприятного исхода не известна («лучше понятный риск, чем неопределенность»)",
+              "descEn": null
             },
             {
-              "name": "Information bias",
-              "wiki-en": "https://en.wikipedia.org/wiki/Information_bias_(psychology)",
-              "name-ru": "Информационное искажение",
-              "wiki-ru": null,
-              "desc-ru": "Искажённое восприятие ценности информации; вера в то, что большее количество информации может улучшить качество принятого решения, даже если дополнительная информация объективно бесполезна"
+              "nameEn": "Information bias",
+              "wikiEn": "https://en.wikipedia.org/wiki/Information_bias_(psychology)",
+              "nameRu": "Информационное искажение",
+              "wikiRu": null,
+              "descRu": "Искажённое восприятие ценности информации; вера в то, что большее количество информации может улучшить качество принятого решения, даже если дополнительная информация объективно бесполезна",
+              "descEn": null
             },
             {
-              "name": "Belief bias",
-              "wiki-en": "https://en.wikipedia.org/wiki/Belief_bias",
-              "name-ru": "Искажение правдоподобного вывода",
-              "wiki-ru": null,
-              "desc-ru": "Склонность оценивать аргументы, основываясь на правдоподобности выводов из них, а не собственно доказательной силе; если человек согласен с итоговым выводом, он склонен доверять тому, что процесс обоснования выводов также верен (ср. с «Предвзятость подтверждения»)"
+              "nameEn": "Belief bias",
+              "wikiEn": "https://en.wikipedia.org/wiki/Belief_bias",
+              "nameRu": "Искажение правдоподобного вывода",
+              "wikiRu": null,
+              "descRu": "Склонность оценивать аргументы, основываясь на правдоподобности выводов из них, а не собственно доказательной силе; если человек согласен с итоговым выводом, он склонен доверять тому, что процесс обоснования выводов также верен (ср. с «Предвзятость подтверждения»)",
+              "descEn": null
             },
             {
-              "name": [
+              "nameEn": [
                 "Rhyme-as-reason effect",
                 "Eaton-Rosen phenomenon"
               ],
-              "wiki-en": "https://en.wikipedia.org/wiki/Rhyme-as-reason_effect",
-              "name-ru": [
+              "wikiEn": "https://en.wikipedia.org/wiki/Rhyme-as-reason_effect",
+              "nameRu": [
                 "Эффект рифмованности",
                 "Феномен Итона-Розена"
               ],
-              "wiki-ru": null,
-              "desc-ru": "Склонность оценивать высказывание или афоризм как более точные или правдивые, если оно содержит рифму (например, «What sobriety conceals, alcohol reveals» оценено как более истинное, чем «What sobriety conceals, alcohol unmasks»)"
+              "wikiRu": null,
+              "descRu": "Склонность оценивать высказывание или афоризм как более точные или правдивые, если оно содержит рифму (например, «What sobriety conceals, alcohol reveals» оценено как более истинное, чем «What sobriety conceals, alcohol unmasks»)",
+              "descEn": null
             },
             {
-              "name": [
+              "nameEn": [
                 "Law of Triviality",
                 "Bike-shedding effect"
               ],
-              "wiki-en": "https://en.wikipedia.org/wiki/Law_of_triviality",
-              "name-ru": [
+              "wikiEn": "https://en.wikipedia.org/wiki/Law_of_triviality",
+              "nameRu": [
                 "Закон тривиальности Паркинсона",
                 "Эффект велосипедного сарая"
               ],
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Закон_тривиальности",
-              "desc-ru": "Склонность придавать чрезмерное значение и тратить лишнее время на обсуждение тривиальных вопросов; при строительстве электростанции — трата времени на обсуждение материалов для строительства велосипедного сарая вместо конструкции самой электростанции"
+              "wikiRu": "https://ru.wikipedia.org/wiki/Закон_тривиальности",
+              "descRu": "Склонность придавать чрезмерное значение и тратить лишнее время на обсуждение тривиальных вопросов; при строительстве электростанции — трата времени на обсуждение материалов для строительства велосипедного сарая вместо конструкции самой электростанции",
+              "descEn": null
             },
             {
-              "name": "Delmore effect",
-              "wiki-en": "http://www.thefullwiki.org/Delmore_effect",
-              "name-ru": "Эффект Делмора",
-              "wiki-ru": null,
-              "desc-ru": "Склонность ставить более точные персональные цели в относительно неважных областях жизни"
+              "nameEn": "Delmore effect",
+              "wikiEn": "http://www.thefullwiki.org/Delmore_effect",
+              "nameRu": "Эффект Делмора",
+              "wikiRu": null,
+              "descRu": "Склонность ставить более точные персональные цели в относительно неважных областях жизни",
+              "descEn": null
             },
             {
-              "name": "Conjunction fallacy",
-              "wiki-en": "https://en.wikipedia.org/wiki/Conjunction_fallacy",
-              "name-ru": "Ошибка конъюнкции",
-              "wiki-ru": null,
-              "desc-ru": "Предположение о том, что совокупность двух специфических обстоятельств более вероятна, чем одно более общее из них (например, «Вася гот и всегда носит чёрное» более вероятно, чем просто «Вася гот»)"
+              "nameEn": "Conjunction fallacy",
+              "wikiEn": "https://en.wikipedia.org/wiki/Conjunction_fallacy",
+              "nameRu": "Ошибка конъюнкции",
+              "wikiRu": null,
+              "descRu": "Предположение о том, что совокупность двух специфических обстоятельств более вероятна, чем одно более общее из них (например, «Вася гот и всегда носит чёрное» более вероятно, чем просто «Вася гот»)",
+              "descEn": null
             },
             {
-              "name": "Occam's razor",
-              "wiki-en": "https://en.wikipedia.org/wiki/Occam%27s_razor",
-              "name-ru": "Бритва Оккама",
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Бритва_Оккама",
-              "desc-ru": "Общий методологический принцип, утверждающий, что если существует несколько логически непротиворечивых объяснений какого-либо явления, объясняющих его одинаково хорошо, то следует, при прочих равных условиях, считать верным самое простое из них"
+              "nameEn": "Occam's razor",
+              "wikiEn": "https://en.wikipedia.org/wiki/Occam%27s_razor",
+              "nameRu": "Бритва Оккама",
+              "wikiRu": "https://ru.wikipedia.org/wiki/Бритва_Оккама",
+              "descRu": "Общий методологический принцип, утверждающий, что если существует несколько логически непротиворечивых объяснений какого-либо явления, объясняющих его одинаково хорошо, то следует, при прочих равных условиях, считать верным самое простое из них",
+              "descEn": null
             },
             {
-              "name": "Less-is-better effect",
-              "wiki-en": "https://en.wikipedia.org/wiki/Less-is-better_effect",
-              "name-ru": "Эффект «меньше — лучше»",
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Эффект_«меньше_—_лучше»",
-              "desc-ru": "Склонность в отсутствие прямого сравнения двух вещей отдавать предпочтение вещи с меньшей ценностью (например, выбирать дорогой шарф за 45 $, а не дешёвое пальто за 55 $)"
+              "nameEn": "Less-is-better effect",
+              "wikiEn": "https://en.wikipedia.org/wiki/Less-is-better_effect",
+              "nameRu": "Эффект «меньше — лучше»",
+              "wikiRu": "https://ru.wikipedia.org/wiki/Эффект_«меньше_—_лучше»",
+              "descRu": "Склонность в отсутствие прямого сравнения двух вещей отдавать предпочтение вещи с меньшей ценностью (например, выбирать дорогой шарф за 45 $, а не дешёвое пальто за 55 $)",
+              "descEn": null
             }
           ]
         }
       ]
     },
     {
-      "name": "What Should We Remember?",
-      "name-ru": "Что нужно будет вспомнить?",
+      "nameEn": "What Should We Remember?",
+      "nameRu": "Что нужно будет вспомнить?",
       "children": [
         {
-          "name": "We edit and reinforce some memories after the fact",
-          "name-ru": "Мы редактируем и усиливаем воспоминания после случившихся событий",
+          "nameEn": "We edit and reinforce some memories after the fact",
+          "nameRu": "Мы редактируем и усиливаем воспоминания после случившихся событий",
           "children": [
             {
-              "name": [
+              "nameEn": [
                 "Misattribution of memory",
                 "Source confusion"
               ],
-              "wiki-en": "https://en.wikipedia.org/wiki/Misattribution_of_memory",
-              "name-ru": [
+              "wikiEn": "https://en.wikipedia.org/wiki/Misattribution_of_memory",
+              "nameRu": [
                 "Ошибка атрибуции воспоминания",
                 "Ошибка источника воспоминания"
               ],
-              "wiki-ru": null,
-              "desc-ru": "Эффект, когда отдалённому воспоминанию приписывается другое происхождение (например, сцена, увиденная в фильме, кажется эпизодом из реального прошлого)"
+              "wikiRu": null,
+              "descRu": "Эффект, когда отдалённому воспоминанию приписывается другое происхождение (например, сцена, увиденная в фильме, кажется эпизодом из реального прошлого)",
+              "descEn": null
             },
             {
-              "name": "False memory",
-              "wiki-en": "https://en.wikipedia.org/wiki/False_memory",
-              "name-ru": [
+              "nameEn": "False memory",
+              "wikiEn": "https://en.wikipedia.org/wiki/False_memory",
+              "nameRu": [
                 "Парамнезия",
                 "Ложная память"
               ],
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Парамнезия",
-              "desc-ru": "Нарушения и расстройства памяти, выражающиеся в ложных воспоминаниях; может происходить смешение прошлого и настоящего, а также реальных и вымышленных событий (см. подробнее вики-статьи «Псевдореминисценция», «Конфабуляция», «Криптомнезия», «Фантазм»"
+              "wikiRu": "https://ru.wikipedia.org/wiki/Парамнезия",
+              "descRu": "Нарушения и расстройства памяти, выражающиеся в ложных воспоминаниях; может происходить смешение прошлого и настоящего, а также реальных и вымышленных событий (см. подробнее вики-статьи «Псевдореминисценция», «Конфабуляция», «Криптомнезия», «Фантазм»",
+              "descEn": null
             },
             {
-              "name": "Cryptomnesia",
-              "wiki-en": "https://en.wikipedia.org/wiki/Cryptomnesia",
-              "name-ru": "Криптомнезия",
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Криптомнезия",
-              "desc-ru": "Род парамнезии, когда человек не может вспомнить, когда было то или иное событие, во сне или наяву, написал ли он стихотворение или просто запомнил когда-то прочитанное, был ли он на концерте известного музыканта или только слышал разговор об этом"
+              "nameEn": "Cryptomnesia",
+              "wikiEn": "https://en.wikipedia.org/wiki/Cryptomnesia",
+              "nameRu": "Криптомнезия",
+              "wikiRu": "https://ru.wikipedia.org/wiki/Криптомнезия",
+              "descRu": "Род парамнезии, когда человек не может вспомнить, когда было то или иное событие, во сне или наяву, написал ли он стихотворение или просто запомнил когда-то прочитанное, был ли он на концерте известного музыканта или только слышал разговор об этом",
+              "descEn": null
             },
             {
-              "name": "Suggestibility",
-              "wiki-en": "http://en.wikipedia.org/wiki/Suggestibility",
-              "name-ru": "Внушаемость",
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Внушаемость",
-              "desc-ru": "Способность воспринимать психическое воздействие со стороны другого лица или группы лиц, степень восприимчивости к воздействию; в частности форма «Ошибки атрибуции воспоминания», когда идеи, предложенные интервьюером, впоследствии принимаются за воспоминания"
+              "nameEn": "Suggestibility",
+              "wikiEn": "http://en.wikipedia.org/wiki/Suggestibility",
+              "nameRu": "Внушаемость",
+              "wikiRu": "https://ru.wikipedia.org/wiki/Внушаемость",
+              "descRu": "Способность воспринимать психическое воздействие со стороны другого лица или группы лиц, степень восприимчивости к воздействию; в частности форма «Ошибки атрибуции воспоминания», когда идеи, предложенные интервьюером, впоследствии принимаются за воспоминания",
+              "descEn": null
             },
             {
-              "name": "Spacing effect",
-              "wiki-en": "http://en.wikipedia.org/wiki/Spacing_effect",
-              "name-ru": "Эффект интервала",
-              "wiki-ru": null,
-              "desc-ru": "Информация лучше выучивается и запоминается, если повторять ее несколько раз в течение долгого времени, а не короткого"
+              "nameEn": "Spacing effect",
+              "wikiEn": "http://en.wikipedia.org/wiki/Spacing_effect",
+              "nameRu": "Эффект интервала",
+              "wikiRu": null,
+              "descRu": "Информация лучше выучивается и запоминается, если повторять ее несколько раз в течение долгого времени, а не короткого",
+              "descEn": null
             }
           ]
         },
         {
-          "name": "We discard specifics to form generalities",
-          "name-ru": "Мы отбрасываем частности для построения и закрепления обобщений",
+          "nameEn": "We discard specifics to form generalities",
+          "nameRu": "Мы отбрасываем частности для построения и закрепления обобщений",
           "children": [
             {
-              "name": [
+              "nameEn": [
                 "Implicit stereotypes",
                 "Implicit associations"
               ],
-              "wiki-en": "https://en.wikipedia.org/wiki/Implicit_stereotype",
-              "name-ru": [
+              "wikiEn": "https://en.wikipedia.org/wiki/Implicit_stereotype",
+              "nameRu": [
                 "Неявные стереотипы",
                 "Неявные ассоциации"
               ],
-              "wiki-ru": null,
-              "desc-ru": "Неосознанное приписывание определённых качеств  члену определённой социальной группы"
+              "wikiRu": null,
+              "descRu": "Неосознанное приписывание определённых качеств  члену определённой социальной группы",
+              "descEn": null
             },
             {
-              "name": "Stereotypical bias",
-              "wiki-en": "https://en.wikipedia.org/wiki/List_of_cognitive_biases#Stereotypical_bias",
-              "name-ru": "Отклонение памяти в сторону стереотипов",
-              "wiki-ru": null,
-              "desc-ru": "Искажение памяти в направлении стереотипных представлений (например, гендерных или расовых: имена, похожие на имена чернокожих, запоминаются как имена преступников)"
+              "nameEn": "Stereotypical bias",
+              "wikiEn": "https://en.wikipedia.org/wiki/List_of_cognitive_biases#Stereotypical_bias",
+              "nameRu": "Отклонение памяти в сторону стереотипов",
+              "wikiRu": null,
+              "descRu": "Искажение памяти в направлении стереотипных представлений (например, гендерных или расовых: имена, похожие на имена чернокожих, запоминаются как имена преступников)",
+              "descEn": null
             },
             {
-              "name": "Prejudice",
-              "wiki-en": "https://en.wikipedia.org/wiki/Prejudice",
-              "name-ru": "Предрассудок",
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Предрассудок",
-              "desc-ru": "Суждения, мнения, убеждения, не основанные на фактах и опыте, а усвоенные непосредственно из недостоверных источников и воспринимаемые самим субъектом как безусловная истина, не требующая подтверждения"
+              "nameEn": "Prejudice",
+              "wikiEn": "https://en.wikipedia.org/wiki/Prejudice",
+              "nameRu": "Предрассудок",
+              "wikiRu": "https://ru.wikipedia.org/wiki/Предрассудок",
+              "descRu": "Суждения, мнения, убеждения, не основанные на фактах и опыте, а усвоенные непосредственно из недостоверных источников и воспринимаемые самим субъектом как безусловная истина, не требующая подтверждения",
+              "descEn": null
             },
             {
-              "name": "Negativity bias",
-              "wiki-en": "https://en.wikipedia.org/wiki/Negativity_bias",
-              "name-ru": "Феномен негативного восприятия",
-              "wiki-ru": null,
-              "desc-ru": "Вещи негативной природы (плохие мысли, эмоции, травмирующие события) сильнее воздействуют на психологическое состояние и запоминаются в текущем моменте, чем нейтральные или позитивные"
+              "nameEn": "Negativity bias",
+              "wikiEn": "https://en.wikipedia.org/wiki/Negativity_bias",
+              "nameRu": "Феномен негативного восприятия",
+              "wikiRu": null,
+              "descRu": "Вещи негативной природы (плохие мысли, эмоции, травмирующие события) сильнее воздействуют на психологическое состояние и запоминаются в текущем моменте, чем нейтральные или позитивные",
+              "descEn": null
             },
             {
-              "name": [
+              "nameEn": [
                 "Fading affect bias",
                 "FAB"
               ],
-              "wiki-en": "https://en.wikipedia.org/wiki/Fading_affect_bias",
-              "name-ru": "Отклонение в сторону затухания аффекта",
-              "wiki-ru": null,
-              "desc-ru": "Склонность быстрее забывать то, что связано с неприятными эмоциями, чем то, что связано с приятными"
+              "wikiEn": "https://en.wikipedia.org/wiki/Fading_affect_bias",
+              "nameRu": "Отклонение в сторону затухания аффекта",
+              "wikiRu": null,
+              "descRu": "Склонность быстрее забывать то, что связано с неприятными эмоциями, чем то, что связано с приятными",
+              "descEn": null
             }
           ]
         },
         {
-          "name": "We reduce events and lists to their key elements",
-          "name-ru": "Мы упрощаем события и списки до отдельных ключевых моментов и элементов",
+          "nameEn": "We reduce events and lists to their key elements",
+          "nameRu": "Мы упрощаем события и списки до отдельных ключевых моментов и элементов",
           "children": [
             {
-              "name": "Peak–end rule",
-              "wiki-en": "https://en.wikipedia.org/wiki/Peak–end_rule",
-              "name-ru": "Правило пика и завершения",
-              "wiki-ru": null,
-              "desc-ru": "Оценивая событие или переживание, люди больше всего обращают внимание на пиковый момент и на концовку, а не на сумму состояний на протяжении всего события"
+              "nameEn": "Peak–end rule",
+              "wikiEn": "https://en.wikipedia.org/wiki/Peak–end_rule",
+              "nameRu": "Правило пика и завершения",
+              "wikiRu": null,
+              "descRu": "Оценивая событие или переживание, люди больше всего обращают внимание на пиковый момент и на концовку, а не на сумму состояний на протяжении всего события",
+              "descEn": null
             },
             {
-              "name": "Leveling and sharpening",
-              "wiki-en": "https://en.wikipedia.org/wiki/Leveling_and_sharpening",
-              "name-ru": "Выравнивание и заострение",
-              "wiki-ru": null,
-              "desc-ru": "Две функции, срабатывающие при запоминании: «заострение» — склонность вспоминать маленькие детали при пересказывании своего опыта или чужой истории, «выравнивание» — выкидывание частей истории, чтобы упростить заполнение пробелов"
+              "nameEn": "Leveling and sharpening",
+              "wikiEn": "https://en.wikipedia.org/wiki/Leveling_and_sharpening",
+              "nameRu": "Выравнивание и заострение",
+              "wikiRu": null,
+              "descRu": "Две функции, срабатывающие при запоминании: «заострение» — склонность вспоминать маленькие детали при пересказывании своего опыта или чужой истории, «выравнивание» — выкидывание частей истории, чтобы упростить заполнение пробелов",
+              "descEn": null
             },
             {
-              "name": "Misinformation effect",
-              "wiki-en": "https://en.wikipedia.org/wiki/Misinformation_effect",
-              "name-ru": "Эффект ложной информации",
-              "wiki-ru": null,
-              "desc-ru": "Более поздняя информация о событии искажает (портит) более раннюю"
+              "nameEn": "Misinformation effect",
+              "wikiEn": "https://en.wikipedia.org/wiki/Misinformation_effect",
+              "nameRu": "Эффект ложной информации",
+              "wikiRu": null,
+              "descRu": "Более поздняя информация о событии искажает (портит) более раннюю",
+              "descEn": null
             },
             {
-              "name": [
+              "nameEn": [
                 "Serial recall effect",
                 "List-length effect"
               ],
-              "wiki-en": "https://en.wikipedia.org/wiki/Recall_%28memory%29#Serial_recall",
-              "name-ru": "Последовательное вспоминание",
-              "wiki-ru": null,
-              "desc-ru": "Люди и некоторые другие животные запоминают и воспроизводят последовательности сигналов (символов); в частности способности к последовательному вспоминанию снижаются с ростом длины вспоминаемой последовательности"
+              "wikiEn": "https://en.wikipedia.org/wiki/Recall_%28memory%29#Serial_recall",
+              "nameRu": "Последовательное вспоминание",
+              "wikiRu": null,
+              "descRu": "Люди и некоторые другие животные запоминают и воспроизводят последовательности сигналов (символов); в частности способности к последовательному вспоминанию снижаются с ростом длины вспоминаемой последовательности",
+              "descEn": null
             },
             {
-              "name": "Duration neglect",
-              "wiki-en": "https://en.wikipedia.org/wiki/Duration_neglect",
-              "name-ru": "Игнорирование продолжительности",
-              "wiki-ru": null,
-              "desc-ru": "Склонность игнорировать длительность эпизода когда определяешь, насколько он значим (пиковые значения важнее, см. «Правило пика и завершения»)"
+              "nameEn": "Duration neglect",
+              "wikiEn": "https://en.wikipedia.org/wiki/Duration_neglect",
+              "nameRu": "Игнорирование продолжительности",
+              "wikiRu": null,
+              "descRu": "Склонность игнорировать длительность эпизода когда определяешь, насколько он значим (пиковые значения важнее, см. «Правило пика и завершения»)",
+              "descEn": null
             },
             {
-              "name": "Modality effect",
-              "wiki-en": "https://en.wikipedia.org/wiki/Modality_effect",
-              "name-ru": "Эффект подачи сообщений",
-              "wiki-ru": null,
-              "desc-ru": "Устная, письменная, визуальная формы подачи сообщений обеспечивают разное качество запоминания"
+              "nameEn": "Modality effect",
+              "wikiEn": "https://en.wikipedia.org/wiki/Modality_effect",
+              "nameRu": "Эффект подачи сообщений",
+              "wikiRu": null,
+              "descRu": "Устная, письменная, визуальная формы подачи сообщений обеспечивают разное качество запоминания",
+              "descEn": null
             },
             {
-              "name": "Memory inhibition",
-              "wiki-en": "https://en.wikipedia.org/wiki/Memory_inhibition",
-              "name-ru": "Торможение памяти",
-              "wiki-ru": null,
-              "desc-ru": "Способность человека не запоминать нерелевантную информацию"
+              "nameEn": "Memory inhibition",
+              "wikiEn": "https://en.wikipedia.org/wiki/Memory_inhibition",
+              "nameRu": "Торможение памяти",
+              "wikiRu": null,
+              "descRu": "Способность человека не запоминать нерелевантную информацию",
+              "descEn": null
             },
             {
-              "name": "Part-list cueing effect",
-              "wiki-en": "https://en.wikipedia.org/wiki/Memory_inhibition#Part-set_cuing_effect",
-              "name-ru": "Эффект выборочного напоминания списка",
-              "wiki-ru": null,
-              "desc-ru": "Предоставление части списка, который требуется запомнить, в качестве «подсказки», может ухудшать запоминание остальной части списка по сравнению с запоминанием без подсказок"
+              "nameEn": "Part-list cueing effect",
+              "wikiEn": "https://en.wikipedia.org/wiki/Memory_inhibition#Part-set_cuing_effect",
+              "nameRu": "Эффект выборочного напоминания списка",
+              "wikiRu": null,
+              "descRu": "Предоставление части списка, который требуется запомнить, в качестве «подсказки», может ухудшать запоминание остальной части списка по сравнению с запоминанием без подсказок",
+              "descEn": null
             },
             {
-              "name": [
+              "nameEn": [
                 "Serial position effect",
                 "Primacy effect",
                 "Recency effect"
               ],
-              "wiki-en": "https://en.wikipedia.org/wiki/Serial_position_effect",
-              "name-ru": [
+              "wikiEn": "https://en.wikipedia.org/wiki/Serial_position_effect",
+              "nameRu": [
                 "Эффект порядка расположения",
                 "Эффект первенства",
                 "Эффект свежести"
               ],
-              "wiki-ru": null,
-              "desc-ru": "Вспоминая в произвольном порядке набор сущностей, сначала вспоминают то, что упоминалось в конце списка (эффект свежести); то, что было в начале вспоминают лучше, чем то, что в середине (эффект первенства); середину вспоминают хуже всего"
+              "wikiRu": null,
+              "descRu": "Вспоминая в произвольном порядке набор сущностей, сначала вспоминают то, что упоминалось в конце списка (эффект свежести); то, что было в начале вспоминают лучше, чем то, что в середине (эффект первенства); середину вспоминают хуже всего",
+              "descEn": null
             },
             {
-              "name": "Suffix effect",
-              "wiki-en": "https://en.wikipedia.org/wiki/List_of_cognitive_biases#Suffix_effect",
-              "name-ru": "Эффект суффикса",
-              "wiki-ru": null,
-              "desc-ru": "Ухудшение запоминания последнего пункта в списке (см. «Эффект свежести»), если за ним следуют дополнительные пункты, которые не требуется запоминать («суффикс», например, цифры добавочного номера у телефона)"
+              "nameEn": "Suffix effect",
+              "wikiEn": "https://en.wikipedia.org/wiki/List_of_cognitive_biases#Suffix_effect",
+              "nameRu": "Эффект суффикса",
+              "wikiRu": null,
+              "descRu": "Ухудшение запоминания последнего пункта в списке (см. «Эффект свежести»), если за ним следуют дополнительные пункты, которые не требуется запоминать («суффикс», например, цифры добавочного номера у телефона)",
+              "descEn": null
             }
           ]
         },
         {
-          "name": "We store memories differently based on how they were experienced",
-          "name-ru": "Мы по-разному храним воспоминания в зависимости от ситуации получения опыта",
+          "nameEn": "We store memories differently based on how they were experienced",
+          "nameRu": "Мы по-разному храним воспоминания в зависимости от ситуации получения опыта",
           "children": [
             {
-              "name": "Levels-of-processing effect",
-              "wiki-en": "https://en.wikipedia.org/wiki/Levels-of-processing_effect",
-              "name-ru": "Эффект уровней обработки информации",
-              "wiki-ru": null,
-              "desc-ru": "Теория, согласно которой разные уровни глубины ментальной обработки информации по-разному влияют на эффективность запоминания"
+              "nameEn": "Levels-of-processing effect",
+              "wikiEn": "https://en.wikipedia.org/wiki/Levels-of-processing_effect",
+              "nameRu": "Эффект уровней обработки информации",
+              "wikiRu": null,
+              "descRu": "Теория, согласно которой разные уровни глубины ментальной обработки информации по-разному влияют на эффективность запоминания",
+              "descEn": null
             },
             {
-              "name": "Absent-mindedness",
-              "wiki-en": "https://en.wikipedia.org/wiki/Absent-mindedness",
-              "name-ru": "Рассеянность внимания",
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Рассеянность_внимания",
-              "desc-ru": "Нарушение способности к концентрации внимания; различается по характеру и причинам возникновения"
+              "nameEn": "Absent-mindedness",
+              "wikiEn": "https://en.wikipedia.org/wiki/Absent-mindedness",
+              "nameRu": "Рассеянность внимания",
+              "wikiRu": "https://ru.wikipedia.org/wiki/Рассеянность_внимания",
+              "descRu": "Нарушение способности к концентрации внимания; различается по характеру и причинам возникновения",
+              "descEn": null
             },
             {
-              "name": "Testing effect",
-              "wiki-en": "https://en.wikipedia.org/wiki/Testing_effect",
-              "name-ru": "Эффект тестирования",
-              "wiki-ru": null,
-              "desc-ru": "Проверяя знание информации, лучше закрепляешь ее в памяти; переписывать для запоминания эффективнее, чем перечитывать"
+              "nameEn": "Testing effect",
+              "wikiEn": "https://en.wikipedia.org/wiki/Testing_effect",
+              "nameRu": "Эффект тестирования",
+              "wikiRu": null,
+              "descRu": "Проверяя знание информации, лучше закрепляешь ее в памяти; переписывать для запоминания эффективнее, чем перечитывать",
+              "descEn": null
             },
             {
-              "name": "Next-in-line effect",
-              "wiki-en": "http://www.oxfordreference.com/view/10.1093/oi/authority.20110803100232913",
-              "name-ru": "Эффект следующего в очереди",
-              "wiki-ru": null,
-              "desc-ru": "При последовательном произношении и запоминании слов несколькими участниками хуже всего запоминались слова, произнесённые непосредственно предыдущим участником (в силу эффекта Ресторфф лучше всего запоминались самостоятельно произнесённые слова)"
+              "nameEn": "Next-in-line effect",
+              "wikiEn": "http://www.oxfordreference.com/view/10.1093/oi/authority.20110803100232913",
+              "nameRu": "Эффект следующего в очереди",
+              "wikiRu": null,
+              "descRu": "При последовательном произношении и запоминании слов несколькими участниками хуже всего запоминались слова, произнесённые непосредственно предыдущим участником (в силу эффекта Ресторфф лучше всего запоминались самостоятельно произнесённые слова)",
+              "descEn": null
             },
             {
-              "name": [
+              "nameEn": [
                 "Google effect",
                 "Digital amnesia"
               ],
-              "wiki-en": "https://en.wikipedia.org/wiki/Google_effect",
-              "name-ru": [
+              "wikiEn": "https://en.wikipedia.org/wiki/Google_effect",
+              "nameRu": [
                 "Эффект Google",
                 "Цифровая амнезия"
               ],
-              "wiki-ru": "https://ru.wikipedia.org/wiki/Цифровая_амнезия",
-              "desc-ru": "Склонность забывать информацию, которую можно легко найти в онлайн-поисковиках (например, Google)"
+              "wikiRu": "https://ru.wikipedia.org/wiki/Цифровая_амнезия",
+              "descRu": "Склонность забывать информацию, которую можно легко найти в онлайн-поисковиках (например, Google)",
+              "descEn": null
             },
             {
-              "name": "Tip of the tongue phenomenon",
-              "wiki-en": "https://en.wikipedia.org/wiki/Tip_of_the_tongue",
-              "name-ru": "Феномен «на кончике языка»",
-              "wiki-ru": "https://ru.wikipedia.org/wiki/На_кончике_языка",
-              "desc-ru": "Неспособность вспомнить какое-либо хорошо знакомое слово, при этом в памяти всплывает определенное количество информации о забытом слове"
+              "nameEn": "Tip of the tongue phenomenon",
+              "wikiEn": "https://en.wikipedia.org/wiki/Tip_of_the_tongue",
+              "nameRu": "Феномен «на кончике языка»",
+              "wikiRu": "https://ru.wikipedia.org/wiki/На_кончике_языка",
+              "descRu": "Неспособность вспомнить какое-либо хорошо знакомое слово, при этом в памяти всплывает определенное количество информации о забытом слове",
+              "descEn": null
             }
           ]
         }
       ]
     },
     {
-      "name": "To Sort!",
-      "name-ru": "Разобрать!",
+      "nameEn": "To Sort!",
+      "nameRu": "Разобрать!",
+      "label": "todo",
       "children": [
         {
           "link": "https://ru.wikipedia.org/wiki/Хоторнский_эффект"

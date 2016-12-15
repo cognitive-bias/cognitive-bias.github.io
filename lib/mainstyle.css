@@ -1,6 +1,7 @@
 .topLevelEntryHeader {
 }
 
+/*
 .topLevelEntry {
     border: 1px solid black;
     padding: 2px;
@@ -25,6 +26,49 @@
     margin: 5px;
     padding: 2px;
     border: 1px solid black;
-    width: 9%;
     float: left;
+}
+*/
+/*
+*/
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: 'whitesmoke';
+  font-family: "Roboto";
+  font-weight: 400;
+  font-size: 14px;
+}
+
+a{
+  color: blue;
+}
+h4{
+  margin: 20px 0 0 0;
+  font-weight: 500;
+  font-size: 18px;
+}
+pre > code{
+  padding: 10px !important;
+  border-radius: 4px;
+  font-family: 'Consolas', 'Liberation Mono', 'Menlo', Courier, monospace;
+}
+
+.demo {
+  margin: 20px 0;
+  padding: 4px;
+  background: whitesmoke;
+}
+
+.demo > div {
+  margin: 4px;
+  padding: 12px;
+  background: white;
 }
